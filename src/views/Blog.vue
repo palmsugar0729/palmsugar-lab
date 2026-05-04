@@ -10,8 +10,8 @@
 
 <script setup lang="ts">
 import { ref, onMounted } from "vue";
-import { getArticleList, type ArticleMeta } from "@/api/article";
-import ArticleCard from "@/components/ArticleCard.vue";
+import { getArticleList, type ArticleMeta } from "../api/article";
+import ArticleCard from "../components/ArticleCard.vue";
 
 const list = ref<ArticleMeta[]>([]);
 

@@ -13,8 +13,8 @@
 
 <script setup lang="ts">
 import { ref, onMounted } from "vue";
-import { getArticleList, type ArticleMeta } from "@/api/japanese";
-import ArticleCard from "@/components/JPAritcleCard.vue";
+import { getArticleList, type ArticleMeta } from "../api/japanese";
+import ArticleCard from "../components/JPAritcleCard.vue";
 import { useRouter } from "vue-router";
 
 const list = ref<ArticleMeta[]>([]);

@@ -52,7 +52,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from "vue";
-import list from "@/content/japanese/exercise/exercise_demo.json";
+import list from "../content/japanese/exercise/exercise_demo.json";
 
 const currentIndex = ref(0);
 const selected = ref<number | null>(null);
