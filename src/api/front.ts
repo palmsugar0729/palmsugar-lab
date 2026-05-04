@@ -21,10 +21,10 @@ export interface FrontItem {
     },
     {
       id: '003',
-      title: '卡片翻面',
-      description: 'hover翻面（3D）',
+      title: '按钮hover效果',
+      description: '不同的hover变色',
       source: 'codepen',
-      origin: 'https://codepen.io/edeesims/pen/wvpYWW'
+      origin: 'https://codepen.io/giana/pen/BZaGyP'
     },
     {
       id: '004',

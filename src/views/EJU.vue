@@ -3,25 +3,21 @@
     <h1 class="title">EJU</h1>
 
     <div class="list">
-      <ArticleCard
-        v-for="item in list"
-        :key="item.id"
-        :article="item"
-      />
+      <ArticleCard v-for="item in list" :key="item.id" :article="item" />
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
-import { getArticleList, type ArticleMeta } from '../api/eju'
-import ArticleCard from '../components/EJUArticleCard.vue'
+import { ref, onMounted } from "vue";
+import { getArticleList, type ArticleMeta } from "@/api/eju";
+import ArticleCard from "@/components/EJUArticleCard.vue";
 
-const list = ref<ArticleMeta[]>([])
+const list = ref<ArticleMeta[]>([]);
 
 onMounted(async () => {
-  list.value = await getArticleList()
-})
+  list.value = await getArticleList();
+});
 </script>
 
 <style scoped lang="scss">

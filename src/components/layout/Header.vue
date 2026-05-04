@@ -17,7 +17,7 @@
 <style scoped lang="scss">
 .header {
   backdrop-filter: blur(12px);
-  background: rgba(255,255,255,0.6);
+  background: rgba(255, 255, 255, 0.6);
   position: sticky;
   top: 0;
   z-index: 10;

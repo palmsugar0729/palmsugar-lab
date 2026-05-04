@@ -17,14 +17,32 @@ export interface ArticleMeta {
     const list: ArticleMeta[] = []
   
     for (const path in modules) {
-        const content = modules[path] as string
+      const content = modules[path] as string;
   
-        list.push({
-            id: path.split('/').pop()?.replace('.md', '') || '',
-            title: '测试标题',
-            date: '2026-01-01',
-            description: content.slice(0, 50)
-        })
+      const match = content.match(/---([\s\S]*?)---/);
+  
+      let title = "";
+      let date = "";
+      let body = content;
+  
+      if (match) {
+        const meta = match[1];
+  
+        const titleMatch = meta.match(/title:\s*(.*)/);
+        const dateMatch = meta.match(/date:\s*(.*)/);
+  
+        title = titleMatch ? titleMatch[1] : "";
+        date = dateMatch ? dateMatch[1] : "";
+  
+        body = content.replace(match[0], "");
+      }
+  
+      list.push({
+        id: path.split("/").pop()?.replace(".md", "") || "",
+        title,
+        date,
+        description: body.slice(0, 50),
+      });
     }
   
     // 按时间排序
