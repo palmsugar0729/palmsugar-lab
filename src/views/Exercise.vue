@@ -72,7 +72,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed } from "vue";
+import { ref, computed, onMounted, onUnmounted } from "vue";
 import list from "../content/japanese/exercise/exercise_demo.json";
 
 const currentIndex = ref(0);
@@ -93,8 +93,7 @@ const isCorrect = computed(() => {
 // 提交
 const submit = () => {
   if (selected.value === null || hasAnswered.value) return;
-
-  if (selected.value === current.value.answer) {
+  if (isCorrect.value) {
     correctCount.value++;
   } else {
     wrongList.value.push({
@@ -103,15 +102,11 @@ const submit = () => {
       correct: current.value.options[current.value.answer],
     });
   }
-
   hasAnswered.value = true;
   showAnswer.value = true;
 };
-
-// 点击卡片 → 下一题
-const handleCardClick = () => {
-  if (!showAnswer.value) return;
-
+// next函数复用
+const next = () => {
   if (currentIndex.value < list.length - 1) {
     currentIndex.value++;
     reset();
@@ -119,14 +114,37 @@ const handleCardClick = () => {
     finished.value = true;
   }
 };
+// 点击卡片 → 下一题
+const handleCardClick = () => {
+  if (!showAnswer.value) return;
+  next();
+};
+// 回车 → 下一题
+const handleKeydown = (e: KeyboardEvent) => {
+  const tag = (e.target as HTMLElement).tagName;
 
+  if (tag === "INPUT" || tag === "TEXTAREA") return;
+
+  if (e.key === "Enter") {
+    if (showAnswer.value && !finished.value) {
+      next();
+    }
+  }
+};
+// 挂载 & 卸载监听
+onMounted(() => {
+  window.addEventListener("keydown", handleKeydown);
+});
+
+onUnmounted(() => {
+  window.removeEventListener("keydown", handleKeydown);
+});
 // 重置
 const reset = () => {
   selected.value = null;
   showAnswer.value = false;
   hasAnswered.value = false;
 };
-
 // 再来一遍
 const restart = () => {
   currentIndex.value = 0;

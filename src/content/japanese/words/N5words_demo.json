@@ -1,0 +1,122 @@
+[
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "期间",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この間どこへ行きましたか。",
+    "example（CHN）": "前几天你去了哪里？"
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "meaning": "蓝色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "空が青いです。",
+    "example（CHN）": "天空是蓝色的。"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "红色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "これは赤です。",
+    "example（CHN）": "这是红色的。"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "もう秋ですね。",
+    "example（CHN）": "已经是秋天了呢。"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早上",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "朝を待っています。",
+    "example（CHN）": "我在等早晨。"
+  },
+  {
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "早饭",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "毎日朝ご飯を食べます。",
+    "example（CHN）": "每天吃早饭。"
+  },
+  {
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning": "后天",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "明後日行きますね。",
+    "example（CHN）": "后天去哦。"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "脚",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "足を洗いました。",
+    "example（CHN）": "洗了脚。"
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "明日行きません。",
+    "example（CHN）": "明天不去。"
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "あそこに何がありますか。",
+    "example（CHN）": "那里有什么？"
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "那边，那里；那位",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "あちらにありますか？",
+    "example（CHN）": "在那边吗？"
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "那边，那里；那位（あちら的口语）",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "学校はあっちですね。",
+    "example（CHN）": "学校在那边呢。"
+  }
+]

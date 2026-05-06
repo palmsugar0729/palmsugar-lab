@@ -7,13 +7,16 @@ const routes = [
   { path: '/japanese', component: () => import('../views/Japanese.vue') },
   { path: '/japanese/:id', component: () => import('../views/JapaneseDetail.vue') },
   {path: '/exercise', component: () => import('../views/Exercise.vue') },
+  {path: '/word', component: () => import('../views/word(demo).vue') },
   { path: '/eju', component: () => import('../views/EJU.vue') },
   { path: '/eju/:id', component: () => import('../views/EJUDetail.vue') },
   { path: '/recipes', component: () => import('../views/Recipes.vue') },
   { path: '/recipes/:id', component: () => import('../views/RecipesDetail.vue') },
   { path: '/tools', component: () => import('../views/Tools.vue') },
+  { path: '/tools/:id', component: () => import('../views/ToolDetail.vue') },
   {path: '/front', component: () => import('../views/front/Front.vue') },
   {path: '/front/:id', component: () => import('../views/front/FrontDetail.vue') }
+  
 ]
 
 export default createRouter({

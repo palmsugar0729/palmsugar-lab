@@ -1,0 +1,6012 @@
+[
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "期间",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この間どこへ行きましたか。",
+    "example（CHN）": "前几天你去了哪里？"
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "meaning": "蓝色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "空が青いです。",
+    "example（CHN）": "天空是蓝色的。"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "红色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "これは赤です。",
+    "example（CHN）": "这是红色的。"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "もう秋ですね。",
+    "example（CHN）": "已经是秋天了呢。"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早上",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "朝を待っています。",
+    "example（CHN）": "我在等早晨。"
+  },
+  {
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "早饭",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "毎日朝ご飯を食べます。",
+    "example（CHN）": "每天吃早饭。"
+  },
+  {
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning": "后天",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "明後日行きますね。",
+    "example（CHN）": "后天去哦。"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "脚",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "足を洗いました。",
+    "example（CHN）": "洗了脚。"
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "明日行きません。",
+    "example（CHN）": "明天不去。"
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "あそこに何がありますか。",
+    "example（CHN）": "那里有什么？"
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "那边，那里；那位",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "あちらにありますか？",
+    "example（CHN）": "在那边吗？"
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "那边，那里；那位（あちら的口语）",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "学校はあっちですね。",
+    "example（CHN）": "学校在那边呢。"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "（自己的）哥哥",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "彼は私の兄です。",
+    "example（CHN）": "他是我的哥哥。"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "（自己的）姐姐",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "姉はもう１８歳です。",
+    "example（CHN）": "姐姐已经18岁了。"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "雨",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今日は雨ですね。",
+    "example（CHN）": "今天下雨呢。"
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning": "那个",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "あれは私のカバンです。",
+    "example（CHN）": "那是我的包。"
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "家",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "家に行きましょう。",
+    "example（CHN）": "去我家吧。"
+  },
+  {
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "几个；几岁",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "りんごをいくつ買いましたか。",
+    "example（CHN）": "买了几个苹果？"
+  },
+  {
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "多少钱",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "バナナはいくらですか。",
+    "example（CHN）": "香蕉多少钱？"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "医生",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私は医者が好きです。",
+    "example（CHN）": "我喜欢医生。"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "椅子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "椅子はとても便利です。",
+    "example（CHN）": "椅子非常方便。"
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning": "第一",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "スマホは一番便利です。",
+    "example（CHN）": "手机是最方便的。"
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning": "什么时候",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "いつ日本に行きますか。",
+    "example（CHN）": "什么时候去日本？"
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "狗",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "犬ト遊びましょう。",
+    "example（CHN）": "和狗一起玩吧。"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "妹妹",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "妹と行きましょう。",
+    "example（CHN）": "和妹妹一起去吧。"
+  },
+  {
+    "word": "妹さん",
+    "reading": "いもうとさん",
+    "meaning": "（别人的）妹妹",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "妹さんは何歳ですか。",
+    "example（CHN）": "你妹妹几岁？"
+  },
+  {
+    "word": "入り口",
+    "reading": "いりぐち",
+    "meaning": "入口",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "入り口はどこですか。",
+    "example（CHN）": "入口在哪里？"
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning": "颜色",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この色が好きです。",
+    "example（CHN）": "我喜欢这个颜色。"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning": "上面",
+    "type": "N",
+    "accent": "◎②",
+    "other": "",
+    "example": "上に何かありますか。",
+    "example（CHN）": "上面有什么吗？"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "后面",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私の後ろに立たないでください。",
+    "example（CHN）": "请不要站在我后面。"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "歌，歌曲",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "歌を歌いました。",
+    "example（CHN）": "唱了歌。"
+  },
+  {
+    "word": "家",
+    "reading": "うち",
+    "meaning": "家",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "家がありますか？",
+    "example（CHN）": "有房子吗？"
+  },
+  {
+    "word": "腕時計",
+    "reading": "うでどけい",
+    "meaning": "手表",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "腕時計を買いました。",
+    "example（CHN）": "买了手表。"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "大海，海洋",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "海に行きましょう。",
+    "example（CHN）": "去海边吧。"
+  },
+  {
+    "word": "裏",
+    "reading": "うら",
+    "meaning": "里面，背后",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "ペンはカバンの裏にあります。",
+    "example（CHN）": "笔在包的背面。"
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "meaning": "画",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "絵を書きました。",
+    "example（CHN）": "画了画。"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "电影",
+    "type": "N",
+    "accent": "①◎",
+    "other": "",
+    "example": "映画を見ました。",
+    "example（CHN）": "看了电影。"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning": "电影院",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "これは映画館です。",
+    "example（CHN）": "这是电影院。"
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "meaning": "英语",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "英語が上手ですね。",
+    "example（CHN）": "英语很好呢。"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "车站",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "駅はどこですか。",
+    "example（CHN）": "车站在哪里？"
+  },
+  {
+    "word": "駅前",
+    "reading": "えきまえ",
+    "meaning": "车站外面，车展前",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "駅前に本屋があります。",
+    "example（CHN）": "车站前有书店。"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "铅笔",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "これは鉛筆です。",
+    "example（CHN）": "这是铅笔。"
+  },
+  {
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meaning": "很多，大量",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "人が大勢いますね。",
+    "example（CHN）": "人很多呢。"
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "妈妈；（别人的）妈妈",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "お母さんの写真を撮りました。",
+    "example（CHN）": "拍了妈妈的照片。"
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "点心",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "お菓子を買いました。",
+    "example（CHN）": "买了点心。"
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "钱",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お金がありません。",
+    "example（CHN）": "没有钱。"
+  },
+  {
+    "word": "お客さん",
+    "reading": "おきゃくさん",
+    "meaning": "客人",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お客さんが待っています。",
+    "example（CHN）": "客人在等。"
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning": "（别人的）夫人，太太",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "奥さんはどなたですか。",
+    "example（CHN）": "您太太是哪位？"
+  },
+  {
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "酒",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お酒を飲みます。",
+    "example（CHN）": "喝酒。"
+  },
+  {
+    "word": "お爺さん",
+    "reading": "おじいさん",
+    "meaning": "爷爷；老年男性",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "お爺さんは元気ですか。",
+    "example（CHN）": "爷爷身体好吗？"
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "茶",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私はお茶が好きです。",
+    "example（CHN）": "我喜欢茶。"
+  },
+  {
+    "word": "夫",
+    "reading": "おっと",
+    "meaning": "（自己的）丈夫",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "夫を待っています。",
+    "example（CHN）": "在等丈夫。"
+  },
+  {
+    "word": "お寺",
+    "reading": "おてら",
+    "meaning": "寺庙",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "このお寺は古いです。",
+    "example（CHN）": "这个寺庙很古老。"
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "爸爸，父亲；令尊",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "お父さんの写真を撮りました。",
+    "example（CHN）": "拍了爸爸的照片。"
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "meaning": "男的，男人",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "李さんは男です。",
+    "example（CHN）": "李先生是男性。"
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "男孩子",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "私は男の子が好きです。",
+    "example（CHN）": "我喜欢男孩子。"
+  },
+  {
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "meaning": "男人",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "李さんは男の人です。",
+    "example（CHN）": "李先生是男人。"
+  },
+  {
+    "word": "一昨日",
+    "reading": "おととい",
+    "meaning": "前天",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "一昨日は金曜日でした。",
+    "example（CHN）": "前天是星期五。"
+  },
+  {
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "肚子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お腹が空きました。",
+    "example（CHN）": "肚子饿了。"
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "哥哥，（他人的）哥哥",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "お兄さんと行きましょう。",
+    "example（CHN）": "和哥哥一起去吧。"
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "姐姐，（他人的）姐姐",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私はお姉さんが好きです。",
+    "example（CHN）": "我喜欢姐姐。"
+  },
+  {
+    "word": "お婆さん",
+    "reading": "おばあさん",
+    "meaning": "奶奶，外婆",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "お婆さんは何歳ですか。",
+    "example（CHN）": "奶奶几岁？"
+  },
+  {
+    "word": "お話",
+    "reading": "おはなし",
+    "meaning": "（礼貌）话题，话，故事等",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お話がありますか？",
+    "example（CHN）": "有什么事吗？"
+  },
+  {
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "泡澡",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "お風呂に行きましょう。",
+    "example（CHN）": "去洗澡吧。"
+  },
+  {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "便当",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お弁当を買いました。",
+    "example（CHN）": "买了便当。"
+  },
+  {
+    "word": "お土産",
+    "reading": "おみやげ",
+    "meaning": "土特产；纪念品",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お土産を買いました。",
+    "example（CHN）": "买了土特产。"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "音乐",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "音楽を聞きます。",
+    "example（CHN）": "听音乐。"
+  },
+  {
+    "word": "温泉",
+    "reading": "おんせん",
+    "meaning": "温泉",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この温泉はいいです。",
+    "example（CHN）": "这个温泉很好。"
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "女的，女人",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "王さんは女です。",
+    "example（CHN）": "王女士是女性。"
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "女孩子",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "私は女の子が好きです。",
+    "example（CHN）": "我喜欢女孩子。"
+  },
+  {
+    "word": "女の人",
+    "reading": "おんなのひと",
+    "meaning": "女人",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "王さんは女の人です。",
+    "example（CHN）": "王女士是女人。"
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "会议",
+    "type": "N",
+    "accent": "①③",
+    "other": "",
+    "example": "会議があります。",
+    "example（CHN）": "有会议。"
+  },
+  {
+    "word": "会議室",
+    "reading": "かいぎしつ",
+    "meaning": "会议室",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "会議室で待っています。",
+    "example（CHN）": "在会议室等。"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "外国",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "これは外国のものです。",
+    "example（CHN）": "这是外国的东西。"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "公司",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この会社はすごいです。",
+    "example（CHN）": "这家公司很厉害。"
+  },
+  {
+    "word": "会場",
+    "reading": "かいじょう",
+    "meaning": "会场",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "会場の写真を撮りました。",
+    "example（CHN）": "拍了会场的照片。"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "买东西，购物",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "買い物をしました。",
+    "example（CHN）": "买了东西。"
+  },
+  {
+    "word": "買い物する",
+    "reading": "かいものする",
+    "meaning": "买东西，购物",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅲ",
+    "example": "明日買い物します。",
+    "example（CHN）": "明天去买东西。"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "脸",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "顔に何か付いています。",
+    "example（CHN）": "脸上有东西。"
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "钥匙",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "鍵はあそこです。",
+    "example（CHN）": "钥匙在那里。"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "学生",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "学生がいますか？",
+    "example（CHN）": "有学生吗？"
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "伞",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "傘を貸しました。",
+    "example（CHN）": "借了伞。"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "家人",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "家族の写真を撮りました。",
+    "example（CHN）": "拍了家人的照片。"
+  },
+  {
+    "word": "方",
+    "reading": "かた",
+    "meaning": "人，位",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この方は王さんです。",
+    "example（CHN）": "这位是王先生。"
+  },
+  {
+    "word": "形",
+    "reading": "かたち",
+    "meaning": "形状",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "これはどんな形ですか。",
+    "example（CHN）": "这是什么形状？"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "学校",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "学校で待っています。",
+    "example（CHN）": "在学校等。"
+  },
+  {
+    "word": "彼女",
+    "reading": "かのじょ",
+    "meaning": "她，女朋友",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "彼女の写真を撮りました。",
+    "example（CHN）": "拍了她的照片。"
+  },
+  {
+    "word": "鞄",
+    "reading": "かばん",
+    "meaning": "包",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この鞄は安いです。",
+    "example（CHN）": "这个包很便宜。"
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "纸",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "紙に自分の名前を書きました。",
+    "example（CHN）": "在纸上写了自己的名字。"
+  },
+  {
+    "word": "紙芝居",
+    "reading": "かみしばい",
+    "meaning": "连环画剧，纸人剧",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "紙芝居は面白いです。",
+    "example（CHN）": "纸芝居很有趣。"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "meaning": "周二",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "明日は火曜日です。",
+    "example（CHN）": "明天是星期二。"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "身体",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "体がいいです。",
+    "example（CHN）": "身体很好。"
+  },
+  {
+    "word": "彼",
+    "reading": "かれ",
+    "meaning": "他，男朋友",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "彼はとても便利です。",
+    "example（CHN）": "他非常方便。"
+  },
+  {
+    "word": "川",
+    "reading": "かわ",
+    "meaning": "河，川",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "川の写真を撮りました。",
+    "example（CHN）": "拍了河的照片。"
+  },
+  {
+    "word": "韓国",
+    "reading": "かんこく",
+    "meaning": "韩国",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "韓国に行きます。",
+    "example（CHN）": "去韩国。"
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "汉字",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "漢字を練習します。",
+    "example（CHN）": "练习汉字。"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "meaning": "树",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "木を植えます。",
+    "example（CHN）": "种树。"
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "meaning": "北，北边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この町の北に島があります。",
+    "example（CHN）": "这个城镇北边有一座岛。"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaning": "咖啡店",
+    "type": "N",
+    "accent": "◎③",
+    "other": "",
+    "example": "喫茶店がありますか？",
+    "example（CHN）": "有咖啡店吗？"
+  },
+  {
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning": "票",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この切符は安いです。",
+    "example（CHN）": "这张票很便宜。"
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "昨天",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "昨日私は家にいました。",
+    "example（CHN）": "昨天我在家。"
+  },
+  {
+    "word": "気持ち",
+    "reading": "きもち",
+    "meaning": "心情；感觉",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "気持ちがわるいです。",
+    "example（CHN）": "感觉不舒服。"
+  },
+  {
+    "word": "客",
+    "reading": "きゃく",
+    "meaning": "客人",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "客の資料を整理します。",
+    "example（CHN）": "整理客户的资料。"
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "牛奶",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "牛乳を飲みます。",
+    "example（CHN）": "喝牛奶。"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "今天",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今日はいい天気ですね。",
+    "example（CHN）": "今天天气很好呢。"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "教室",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "ここは教室です。",
+    "example（CHN）": "这里是教室。"
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "兄弟",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "兄弟がいません。",
+    "example（CHN）": "没有兄弟姐妹。"
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "meaning": "去年",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "去年日本に行きました。",
+    "example（CHN）": "去年去了日本。"
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "银行",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "銀行はとても便利です。",
+    "example（CHN）": "银行非常方便。"
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meaning": "周五",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "金曜日に休みます。",
+    "example（CHN）": "星期五休息。"
+  },
+  {
+    "word": "空港",
+    "reading": "くうこう",
+    "meaning": "飞机场",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "空港はどこですか。",
+    "example（CHN）": "机场在哪里？"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "药",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この薬は安いです。",
+    "example（CHN）": "这个药很便宜。"
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "水果",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "スイカは果物です。",
+    "example（CHN）": "西瓜是水果。"
+  },
+  {
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "鞋子",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "この靴が好きです。",
+    "example（CHN）": "我喜欢这双鞋。"
+  },
+  {
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "袜子",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "私は靴下を履いていません。",
+    "example（CHN）": "我没有穿袜子。"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "meaning": "国家",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "国に帰ります。",
+    "example（CHN）": "回国。"
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "车",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "車はとても便利です。",
+    "example（CHN）": "车非常方便。"
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "meaning": "黑色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私は黒が好きです。",
+    "example（CHN）": "我喜欢黑色。"
+  },
+  {
+    "word": "携帯",
+    "reading": "けいたい",
+    "meaning": "手机",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "携帯はとても便利です。",
+    "example（CHN）": "手机非常方便。"
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "meaning": "今天早上",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今朝何を食べましたか。",
+    "example（CHN）": "今天早上吃了什么？"
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaning": "景色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ここの景色の写真を撮りました。",
+    "example（CHN）": "拍了这里的风景照片。"
+  },
+  {
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning": "结婚",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "先月、彼は結婚しました。",
+    "example（CHN）": "上个月，他结婚了。"
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meaning": "周一",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "月曜日に公園で写真を撮りました。",
+    "example（CHN）": "星期一在公园拍了照片。"
+  },
+  {
+    "word": "見学",
+    "reading": "けんがく",
+    "meaning": "参观学习",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "見学に行きましょう。",
+    "example（CHN）": "去参观吧。"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "公园",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この公園は静かです。",
+    "example（CHN）": "这个公园很安静。"
+  },
+  {
+    "word": "高校",
+    "reading": "こうこう",
+    "meaning": "高中",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "高校の写真を撮りました。",
+    "example（CHN）": "拍了高中的照片。"
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "红茶",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私は紅茶が好きです。",
+    "example（CHN）": "我喜欢红茶。"
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "警察岗亭",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "ここは交番です。",
+    "example（CHN）": "这里是派出所。"
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning": "这里",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "ここはどこですか。",
+    "example（CHN）": "这里是哪里？"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "下午",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "午後1時になりました。",
+    "example（CHN）": "下午1点了。"
+  },
+  {
+    "word": "主人",
+    "reading": "しゅじん",
+    "meaning": "（自己的）丈夫",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "主人は今いません。",
+    "example（CHN）": "丈夫现在不在。"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "上午",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "午前八時に起きました。",
+    "example（CHN）": "早上八点起床。"
+  },
+  {
+    "word": "答え",
+    "reading": "こたえ",
+    "meaning": "答案，回答，答复",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "答えはイェスです。",
+    "example（CHN）": "答案是Yes。"
+  },
+  {
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "这里",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "こちらで待っています。",
+    "example（CHN）": "在这里等。"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "今年",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "今年アメリカに行きたいです。",
+    "example（CHN）": "今年想去美国。"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "语言，词语",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "彼の言葉がわかりません。",
+    "example（CHN）": "听不懂他说的话。"
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "孩子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "子供の服は小さいですね。",
+    "example（CHN）": "孩子的衣服很小呢。"
+  },
+  {
+    "word": "この辺",
+    "reading": "このへん",
+    "meaning": "这附近",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この辺にこうえんがあります。",
+    "example（CHN）": "这附近有公园。"
+  },
+  {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meaning": "饭，用餐",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ご飯を食べに行きましょう。",
+    "example（CHN）": "去吃饭吧。"
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meaning": "这个",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "これは私のものです。",
+    "example（CHN）": "这是我的东西。"
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "这周",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "今週は忙しいです。",
+    "example（CHN）": "这周很忙。"
+  },
+  {
+    "word": "今度",
+    "reading": "こんど",
+    "meaning": "这次，下次",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今度の日曜日に旅行に行きませんか。",
+    "example（CHN）": "下个星期天一起去旅行吗？"
+  },
+  {
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning": "今晚",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今晩は賑やかですね。",
+    "example（CHN）": "今晚很热闹呢。"
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "鱼",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "毎日魚を食べます。",
+    "example（CHN）": "每天吃鱼。"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning": "作文",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "作文を書きます。",
+    "example（CHN）": "写作文。"
+  },
+  {
+    "word": "桜",
+    "reading": "さくら",
+    "meaning": "樱花",
+    "type": "N",
+    "accent": "◎①",
+    "other": "",
+    "example": "桜を見に行きましょう。",
+    "example（CHN）": "去看樱花吧。"
+  },
+  {
+    "word": "刺身",
+    "reading": "さしみ",
+    "meaning": "生鱼片",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "刺身をたべます。",
+    "example（CHN）": "吃生鱼片。"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning": "杂志",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この雑誌は安いです。",
+    "example（CHN）": "这本杂志很便宜。"
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "散步",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "散歩に行きましょう。",
+    "example（CHN）": "去散步吧。"
+  },
+  {
+    "word": "字",
+    "reading": "じ",
+    "meaning": "字",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "字が汚いです。",
+    "example（CHN）": "字很难看。"
+  },
+  {
+    "word": "試合",
+    "reading": "しあい",
+    "meaning": "比赛",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "試合をはじめます。",
+    "example（CHN）": "开始比赛。"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "时间，小时",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "時間が足りないです。",
+    "example（CHN）": "时间不够。"
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "考试，测验",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今日の試験は簡単です。",
+    "example（CHN）": "今天的考试很简单。"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "工作",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この仕事はいいです。",
+    "example（CHN）": "这份工作很好。"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "字典",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "英語辞書はここです。",
+    "example（CHN）": "英语词典在这里。"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning": "下面",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "ベッドの下に何がありますか。",
+    "example（CHN）": "床下面有什么？"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "提问",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "質問がありますか。",
+    "example（CHN）": "有问题吗？"
+  },
+  {
+    "word": "質問する",
+    "reading": "しつもんする",
+    "meaning": "提问",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "彼の発言に質問します。",
+    "example（CHN）": "对他的发言提问。"
+  },
+  {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "自行车",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "自転車を買いました。",
+    "example（CHN）": "买了自行车。"
+  },
+  {
+    "word": "事務室",
+    "reading": "じむしつ",
+    "meaning": "办公室",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "事務室で待っています。",
+    "example（CHN）": "在办公室等。"
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "照片",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この写真は家族の写真です。",
+    "example（CHN）": "这张照片是家人的照片。"
+  },
+  {
+    "word": "自由",
+    "reading": "じゆう",
+    "meaning": "自由",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "自由に話してください。",
+    "example（CHN）": "请自由发言。"
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "住所",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "住所をここに書いてください。",
+    "example（CHN）": "请把地址写在这里。"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "上课 ；课程",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "授業に行きましょう。",
+    "example（CHN）": "去上课吧。"
+  },
+  {
+    "word": "授業する",
+    "reading": "じゅぎょうする",
+    "meaning": "上课 ；课程",
+    "type": "V",
+    "accent": "①",
+    "other": "",
+    "example": "ここで授業してもいいですか？",
+    "example（CHN）": "可以在这里上课吗？"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "作业",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "宿題をしています。",
+    "example（CHN）": "正在做作业。"
+  },
+  {
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaning": "兴趣爱好",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私の趣味は水泳です。",
+    "example（CHN）": "我的爱好是游泳。"
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaning": "种类",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "品物の種類はたくさんです。",
+    "example（CHN）": "商品种类很多。"
+  },
+  {
+    "word": "順番",
+    "reading": "じゅんばん",
+    "meaning": "顺序",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "お客さんは順番に並んでいます。",
+    "example（CHN）": "客人按顺序排队。"
+  },
+  {
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "小学",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "小学校はあそこです。",
+    "example（CHN）": "小学在那里。"
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "饭，用餐",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "食事の時間ですね。",
+    "example（CHN）": "到吃饭时间了呢。"
+  },
+  {
+    "word": "食事する",
+    "reading": "しょくじ",
+    "meaning": "饭，用餐",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "週末にレストランで食事しましょう。",
+    "example（CHN）": "周末去餐厅吃饭吧。"
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning": "食堂",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "食堂は二階にあります。",
+    "example（CHN）": "食堂在二楼。"
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "资料",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "この資料は本棚に置いています。",
+    "example（CHN）": "这份资料放在书架上。"
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "meaning": "白色",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私は白が好きです。",
+    "example（CHN）": "我喜欢白色。"
+  },
+  {
+    "word": "人",
+    "reading": "じん",
+    "meaning": "（什么样的）人",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私は中国人です。",
+    "example（CHN）": "我是中国人。"
+  },
+  {
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "新干线",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "新幹線で行きましょう。",
+    "example（CHN）": "坐新干线去吧。"
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "担心",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "彼の心配は無駄です。",
+    "example（CHN）": "他的担心是多余的。"
+  },
+  {
+    "word": "心配する",
+    "reading": "しんぱいする",
+    "meaning": "担心",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "心配しないでください。",
+    "example（CHN）": "请不要担心。"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "报纸",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "新聞を読みます。",
+    "example（CHN）": "看报纸。"
+  },
+  {
+    "word": "水泳",
+    "reading": "すいえい",
+    "meaning": "游泳",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "水泳ができます。",
+    "example（CHN）": "会游泳。"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "周三",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "3月3日は水曜日です。",
+    "example（CHN）": "3月3日是星期三。"
+  },
+  {
+    "word": "背",
+    "reading": "せ",
+    "meaning": "身高",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "彼は背が高いです。",
+    "example（CHN）": "他个子高。"
+  },
+  {
+    "word": "性格",
+    "reading": "せいかく",
+    "meaning": "性格",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "張さんの性格はいいです。",
+    "example（CHN）": "张先生的性格很好。"
+  },
+  {
+    "word": "生活",
+    "reading": "せいかつ",
+    "meaning": "生活",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "今の生活はとても便利です。",
+    "example（CHN）": "现在的生活非常方便。"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "上周",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "先週は北京へ行きました。",
+    "example（CHN）": "上周去了北京。"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "老师",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "あの先生は若いです。",
+    "example（CHN）": "那位老师很年轻。"
+  },
+  {
+    "word": "象",
+    "reading": "ぞう",
+    "meaning": "大象",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "象が大きいですね。",
+    "example（CHN）": "大象很大呢。"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning": "打扫卫生",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "今は掃除の時間です。",
+    "example（CHN）": "现在是打扫时间。"
+  },
+  {
+    "word": "掃除する",
+    "reading": "そうじする",
+    "meaning": "打扫卫生",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "週末に掃除しましょう。",
+    "example（CHN）": "周末一起打扫吧。"
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "そこにいるのは私のおとうとです。",
+    "example（CHN）": "在那里的是我弟弟。"
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "そちらにいるのは私のおとうとです。",
+    "example（CHN）": "那边的是我弟弟。"
+  },
+  {
+    "word": "そっち",
+    "reading": "そっち",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "そっちにいるのは私のおとうとです。",
+    "example（CHN）": "那边的是我弟弟。"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning": "外面",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "外は車がいます。",
+    "example（CHN）": "外面有车。"
+  },
+  {
+    "word": "側",
+    "reading": "そば",
+    "meaning": "旁边",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私の側にいてください。",
+    "example（CHN）": "请待在我身边。"
+  },
+  {
+    "word": "祖父",
+    "reading": "そふ",
+    "meaning": "（自己的）祖父·外祖父",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "祖父は78歳です。",
+    "example（CHN）": "祖父78岁。"
+  },
+  {
+    "word": "祖母",
+    "reading": "そぼ",
+    "meaning": "（自己的）祖母·外祖母",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "祖母は70歳です。",
+    "example（CHN）": "祖母70岁。"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning": "天空",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "空を飛びます。",
+    "example（CHN）": "在天空飞。"
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meaning": "那个",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "それは私のペンです。",
+    "example（CHN）": "那是我的笔。"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "大学",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "大学に通っています。",
+    "example（CHN）": "在上大学。"
+  },
+  {
+    "word": "沢山",
+    "reading": "たくさん",
+    "meaning": "很多，大量",
+    "type": "N；副词",
+    "accent": "③",
+    "other": "",
+    "example": "沢山のものを買いました。",
+    "example（CHN）": "买了很多东西。"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "建筑",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "ここにたくさんの建物があります。",
+    "example（CHN）": "这里有很多建筑。"
+  },
+  {
+    "word": "棚",
+    "reading": "たな",
+    "meaning": "架子",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "棚に何がありますか。",
+    "example（CHN）": "架子上有什么？"
+  },
+  {
+    "word": "楽しみ",
+    "reading": "たのしみ",
+    "meaning": "娱乐，期待",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "読書は私の小さなお楽しみ。",
+    "example（CHN）": "读书是我的小小乐趣。"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "食物",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "食べ物がありますか？",
+    "example（CHN）": "有食物吗？"
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "meaning": "谁",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "誰のかばんですか。",
+    "example（CHN）": "是谁的包？"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning": "附近",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "この近くにコンビニがあります。",
+    "example（CHN）": "这附近有便利店。"
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "地铁",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "地下鉄で学校に行きます。",
+    "example（CHN）": "坐地铁去学校。"
+  },
+  {
+    "word": "中学校",
+    "reading": "ちゅうがっこう",
+    "meaning": "初中",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "この近くに中学校がありますか？",
+    "example（CHN）": "这附近有中学吗？"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "桌子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "机を買いました。",
+    "example（CHN）": "买了桌子。"
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "信",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この手紙を出してください。",
+    "example（CHN）": "请把这封信寄出去。"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "天气",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "天気はいいですね。",
+    "example（CHN）": "天气很好呢。"
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "电灯",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "電気を消しました。",
+    "example（CHN）": "关了灯。"
+  },
+  {
+    "word": "電子辞書",
+    "reading": "でんしじしょ",
+    "meaning": "电子词典",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "電子辞書がありますか？",
+    "example（CHN）": "有电子词典吗？"
+  },
+  {
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "博览会",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "展覧会の写真を撮りました。",
+    "example（CHN）": "拍了展览会的照片。"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "电话",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "明日電話をください。",
+    "example（CHN）": "明天请给我打电话。"
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "怎么样",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "昨日の映画はどうでしたか。",
+    "example（CHN）": "昨天的电影怎么样？"
+  },
+  {
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "动物园",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "動物園に行ったことがあります。",
+    "example（CHN）": "去过动物园。"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "表",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "時計を買いました。",
+    "example（CHN）": "买了手表。"
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning": "哪里",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "どこの写真を撮りましたか。",
+    "example（CHN）": "拍的是哪里的照片？"
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "meaning": "地方",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "説明書は入口のところにあります。",
+    "example（CHN）": "说明书在入口那里。"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "图书馆",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "ここは図書館です。",
+    "example（CHN）": "这里是图书馆。"
+  },
+  {
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "哪里",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "病院はどちらですか。",
+    "example（CHN）": "医院在哪边？"
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning": "哪边",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "病院はどっち？",
+    "example（CHN）": "医院在哪？"
+  },
+  {
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning": "谁",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "あの人はどなたですか。",
+    "example（CHN）": "那个人是谁？"
+  },
+  {
+    "word": "隣り",
+    "reading": "となり",
+    "meaning": "旁边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私の隣に李さんがいます。",
+    "example（CHN）": "我旁边有李先生。"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "朋友",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "友達とテーマパークに行きました。",
+    "example（CHN）": "和朋友去了主题公园。"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "周六",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "土曜日に行きましょう。",
+    "example（CHN）": "星期六去吧。"
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "哪个",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "あなたのカバンはどれですか。",
+    "example（CHN）": "你的包是哪个？"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning": "里面",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "バッグの中に本があります。",
+    "example（CHN）": "包里有书。"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "夏天",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "夏は暑いです。",
+    "example（CHN）": "夏天很热。"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "暑假",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "夏休みに旅行をしました。",
+    "example（CHN）": "暑假去旅行了。"
+  },
+  {
+    "word": "何",
+    "reading": "なに",
+    "meaning": "什么",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "何をしましたか。",
+    "example（CHN）": "做了什么？"
+  },
+  {
+    "word": "何",
+    "reading": "なん",
+    "meaning": "什么",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "これはなんですか。",
+    "example（CHN）": "这是什么？"
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning": "西面",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "西へ出発しましょう！",
+    "example（CHN）": "向西出发吧！"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "周日",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "日曜日に何をしますか。",
+    "example（CHN）": "星期天做什么？"
+  },
+  {
+    "word": "日本",
+    "reading": "にほん",
+    "meaning": "日本",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "日本の船はおおきいですね。",
+    "example（CHN）": "日本的船很大呢。"
+  },
+  {
+    "word": "日本語",
+    "reading": "にほんご",
+    "meaning": "日语",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "日本語で手紙を書きました。",
+    "example（CHN）": "用日语写了信。"
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "行李",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "荷物をここにおいてください。",
+    "example（CHN）": "请把行李放在这里。"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "庭院",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "庭に花があります。",
+    "example（CHN）": "院子里有花。"
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "猫",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "猫の写真を撮りました。",
+    "example（CHN）": "拍了猫的照片。"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "喝的，饮料",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "これは飲み物です。",
+    "example（CHN）": "这是饮料。"
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning": "地方",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私はこの場所が好きです。",
+    "example（CHN）": "我喜欢这个地方。"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "话题，话，故事等",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "どんな話をしていますか。",
+    "example（CHN）": "在谈什么话题？"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "meaning": "春天",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "春になると、花が咲きます。",
+    "example（CHN）": "一到春天花就开。"
+  },
+  {
+    "word": "晩ご飯",
+    "reading": "ばんごはん",
+    "meaning": "晚饭",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "毎日晩ご飯を食べます。",
+    "example（CHN）": "每天吃晚饭。"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "东面",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "東へ行きましょう。",
+    "example（CHN）": "向东走吧。"
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "飞机",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "飛行機で行きます。",
+    "example（CHN）": "坐飞机去。"
+  },
+  {
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "美术馆",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "美術館に行きましょう。",
+    "example（CHN）": "去美术馆吧。"
+  },
+  {
+    "word": "左側",
+    "reading": "ひだりがわ",
+    "meaning": "左侧",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "君の左側にいる人は誰ですか。",
+    "example（CHN）": "你左边的人是谁？"
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "人；人们",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "人は愚かです。",
+    "example（CHN）": "人是愚蠢的。"
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "一个人",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "一人で待っています。",
+    "example（CHN）": "一个人等着。"
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "医院",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "病院を買いました。",
+    "example（CHN）": "买了医院。"
+  },
+  {
+    "word": "昼ご飯",
+    "reading": "ひるごはん",
+    "meaning": "中饭",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "昼ご飯を食べました。",
+    "example（CHN）": "吃了午饭。"
+  },
+  {
+    "word": "昼休み",
+    "reading": "ひるやすみ",
+    "meaning": "午休",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "私は昼休みが好きです。",
+    "example（CHN）": "我喜欢午休。"
+  },
+  {
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "衣服",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "服を買いました。",
+    "example（CHN）": "买了衣服。"
+  },
+  {
+    "word": "袋",
+    "reading": "ふくろ",
+    "meaning": "袋子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この袋を持ってくれないか。",
+    "example（CHN）": "能帮我拿这个袋子吗？"
+  },
+  {
+    "word": "富士山",
+    "reading": "ふじさん",
+    "meaning": "富士山",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "富士山に行きましょう。",
+    "example（CHN）": "去富士山吧。"
+  },
+  {
+    "word": "船",
+    "reading": "ふね",
+    "meaning": "船",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "船の写真を撮りました。",
+    "example（CHN）": "拍了船的照片。"
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning": "冬天",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "冬はとても寒いです。",
+    "example（CHN）": "冬天很冷。"
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "房间",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "部屋にいてください。",
+    "example（CHN）": "请待在房间里。"
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "帽子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私は帽子が好きです。",
+    "example（CHN）": "我喜欢帽子。"
+  },
+  {
+    "word": "他",
+    "reading": "ほか",
+    "meaning": "其他",
+    "type": "N",
+    "accent": "◎②",
+    "other": "",
+    "example": "他のところへ行ってみよう。",
+    "example（CHN）": "去别的地方看看吧。"
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "每天早上",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎朝7時に起きます。",
+    "example（CHN）": "每天早上7点起床。"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "每天",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎日コーヒーを飲みます。",
+    "example（CHN）": "每天喝咖啡。"
+  },
+  {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaning": "每晚",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私は毎晩運動します。",
+    "example（CHN）": "我每晚运动。"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "前面",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "前のところへ行ってください。",
+    "example（CHN）": "请去前面。"
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "meaning": "城镇",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この町はきれいですね。",
+    "example（CHN）": "这个城市很漂亮呢。"
+  },
+  {
+    "word": "漫画",
+    "reading": "まんが",
+    "meaning": "漫画",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この漫画は面白いですね。",
+    "example（CHN）": "这部漫画很有趣呢。"
+  },
+  {
+    "word": "右側",
+    "reading": "みぎがわ",
+    "meaning": "右侧",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "学校の右側に薬屋があります。",
+    "example（CHN）": "学校右边有药店。"
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meaning": "水",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "水を飲みたいです。",
+    "example（CHN）": "想喝水。"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "店",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "よくこの店に行きます。",
+    "example（CHN）": "经常去这家店。"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "meaning": "路",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "毎日この道を散歩します。",
+    "example（CHN）": "每天在这条路散步。"
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "南边",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "南に何かありますか。",
+    "example（CHN）": "南边有什么吗？"
+  },
+  {
+    "word": "めがね",
+    "reading": "めがね",
+    "meaning": "眼镜",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "このめがねは安いです。",
+    "example（CHN）": "这副眼镜很便宜。"
+  },
+  {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "meaning": "周四",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "木曜日に行きましょう。",
+    "example（CHN）": "星期四去吧。"
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "meaning": "东西",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "私の物を触らないでください。",
+    "example（CHN）": "不要碰我的东西。"
+  },
+  {
+    "word": "八百屋",
+    "reading": "やおや",
+    "meaning": "蔬果店，百货店",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この八百屋何でもありますよ。",
+    "example（CHN）": "这家蔬菜店什么都有。"
+  },
+  {
+    "word": "野球",
+    "reading": "やきゅう",
+    "meaning": "棒球",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "野球をしましょう。",
+    "example（CHN）": "打棒球吧。"
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "蔬菜",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私は野菜が好きです。",
+    "example（CHN）": "我喜欢蔬菜。"
+  },
+  {
+    "word": "休み",
+    "reading": "やすみ",
+    "meaning": "休息",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "明日は休みです。",
+    "example（CHN）": "明天休息。"
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "meaning": "山",
+    "type": "N",
+    "accent": "◎②",
+    "other": "",
+    "example": "山で待っています。",
+    "example（CHN）": "在山里等。"
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "傍晚",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "夕方に来てください。",
+    "example（CHN）": "傍晚来吧。"
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "邮局",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "郵便局に手紙を出してください。",
+    "example（CHN）": "请把信寄到邮局。"
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "雪",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "雪が降りました。",
+    "example（CHN）": "下雪了。"
+  },
+  {
+    "word": "用意する",
+    "reading": "よういする",
+    "meaning": "准备",
+    "type": "V",
+    "accent": "①",
+    "other": "",
+    "example": "食事を用意します。",
+    "example（CHN）": "准备饭菜。"
+  },
+  {
+    "word": "洋服",
+    "reading": "ようふく",
+    "meaning": "衣服",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この洋服に似合いますね。",
+    "example（CHN）": "这件衣服很适合你呢。"
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "预约",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "よやくはとっていますか。",
+    "example（CHN）": "已经预约了吗？"
+  },
+  {
+    "word": "予約する",
+    "reading": "よやくする",
+    "meaning": "预约",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "予約していますか。",
+    "example（CHN）": "有预约吗？"
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "夜晚",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "夜の空に星が輝いています。",
+    "example（CHN）": "夜空中星星在闪耀。"
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "meaning": "下周",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "来週結婚します。",
+    "example（CHN）": "下周结婚。"
+  },
+  {
+    "word": "寮",
+    "reading": "りょう",
+    "meaning": "宿舍",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "寮に住むことにした。",
+    "example（CHN）": "决定住在宿舍。"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "料理，菜",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "料理ができます。",
+    "example（CHN）": "会做饭。"
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "旅行",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "旅行は楽しいですね。",
+    "example（CHN）": "旅行很开心呢。"
+  },
+  {
+    "word": "旅行する",
+    "reading": "りょこうする",
+    "meaning": "旅行",
+    "type": "V",
+    "accent": "◎",
+    "other": "",
+    "example": "去年パリを旅行しました。",
+    "example（CHN）": "去年去了巴黎旅行。"
+  },
+  {
+    "word": "林檎",
+    "reading": "りんご",
+    "meaning": "苹果",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "毎日りんごを食べます。",
+    "example（CHN）": "每天吃苹果。"
+  },
+  {
+    "word": "山葵",
+    "reading": "わさび",
+    "meaning": "芥末",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "山葵はとても辛いです。",
+    "example（CHN）": "芥末很辣。"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "蓝色的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "私のカバンは青いです。",
+    "example（CHN）": "我的包是蓝色的。"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "红色的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "私のカバンは赤いです。",
+    "example（CHN）": "我的包是红色的。"
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "开朗的；明亮的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "あの人は明るいです。",
+    "example（CHN）": "那个人很开朗。"
+  },
+  {
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "暖和的，温暖的",
+    "type": "A",
+    "accent": "④",
+    "other": "",
+    "example": "部屋は暖かいです。",
+    "example（CHN）": "房间很暖和。"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "新的",
+    "type": "A",
+    "accent": "④",
+    "other": "",
+    "example": "王さんの本は新しいです。",
+    "example（CHN）": "王先生的书是新的。"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "热的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "今日は暑いね。",
+    "example（CHN）": "今天很热呢。"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "危险的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "ここは危ないです。",
+    "example（CHN）": "这里很危险。"
+  },
+  {
+    "word": "いい",
+    "reading": "いい",
+    "meaning": "好的",
+    "type": "A",
+    "accent": "①",
+    "other": "",
+    "example": "天気がいいです",
+    "example（CHN）": "天气很好。"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "忙的",
+    "type": "A",
+    "accent": "④",
+    "other": "",
+    "example": "今日は忙しいです。",
+    "example（CHN）": "今天很忙。"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "痛的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "喉が痛いです。",
+    "example（CHN）": "喉咙痛。"
+  },
+  {
+    "word": "うるさい",
+    "reading": "うるさい",
+    "meaning": "吵闹的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "ハエがうるさいです。",
+    "example（CHN）": "苍蝇很吵。"
+  },
+  {
+    "word": "嬉しい",
+    "reading": "うれしい",
+    "meaning": "高兴的，开心的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "先生に褒められて、嬉しいです。",
+    "example（CHN）": "被老师表扬了，很开心。"
+  },
+  {
+    "word": "美味しい",
+    "reading": "おいしい",
+    "meaning": "好吃的，美味的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "ラーメンはおいしいです。",
+    "example（CHN）": "拉面很好吃。"
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "多的",
+    "type": "A",
+    "accent": "①",
+    "other": "",
+    "example": "人が多いですね。",
+    "example（CHN）": "人很多呢。"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "大的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "スイカが大きいですね。",
+    "example（CHN）": "西瓜很大呢。"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "慢的，晚的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "彼は遅いですね。",
+    "example（CHN）": "他很慢呢。"
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "重的",
+    "type": "A",
+    "accent": "◎",
+    "other": "",
+    "example": "本が重いです。",
+    "example（CHN）": "书很重。"
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meaning": "有趣的",
+    "type": "A",
+    "accent": "④",
+    "other": "",
+    "example": "映画は面白いです。",
+    "example（CHN）": "电影很有趣。"
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "辣的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "ラーメンは辛いです。",
+    "example（CHN）": "拉面很辣。"
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "meaning": "轻的",
+    "type": "A",
+    "accent": "◎",
+    "other": "",
+    "example": "ペンが軽いです。",
+    "example（CHN）": "笔很轻。"
+  },
+  {
+    "word": "可愛い",
+    "reading": "かわいい",
+    "meaning": "可爱",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "猫が可愛いです。",
+    "example（CHN）": "猫很可爱。"
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "脏的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "服は汚いです。",
+    "example（CHN）": "衣服很脏。"
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meaning": "严厉的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "先生は厳しいです。",
+    "example（CHN）": "老师很严格。"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "黑色的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "この服は黒いです。",
+    "example（CHN）": "这件衣服是黑色的。"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "寒冷的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "今日は寒いです。",
+    "example（CHN）": "今天很冷。"
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "白色的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "雪が白いです。",
+    "example（CHN）": "雪是白的。"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "狭窄的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "この部屋は狭いです。",
+    "example（CHN）": "这个房间很小。"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "贵的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "この服は高いです。",
+    "example（CHN）": "这件衣服很贵。"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "高的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "彼は背が高いです。",
+    "example（CHN）": "他个子高。"
+  },
+  {
+    "word": "正しい",
+    "reading": "ただしい",
+    "meaning": "正确的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "彼は正しいです。",
+    "example（CHN）": "他是对的。"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "开心的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "旅行は楽しいです。",
+    "example（CHN）": "旅行很快乐。"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "冷的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "アイスが冷たいです。",
+    "example（CHN）": "冰淇淋很凉。"
+  },
+  {
+    "word": "辛い",
+    "reading": "つらい",
+    "meaning": "辛苦的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "頭が痛くて、辛いです。",
+    "example（CHN）": "头痛，很难受。"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning": "长的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "ロープは長いです。",
+    "example（CHN）": "绳子很长。"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "宽广的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "広場は広いです。",
+    "example（CHN）": "广场很大。"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "旧的",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "このものは古いです。",
+    "example（CHN）": "这个东西很旧。"
+  },
+  {
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meaning": "想要",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "肉が欲しい。",
+    "example（CHN）": "想要肉。"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning": "短的",
+    "type": "A",
+    "accent": "③",
+    "other": "",
+    "example": "楽しい時間はいつも短いですね。",
+    "example（CHN）": "快乐的时间总是很短呢。"
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning": "难的",
+    "type": "A",
+    "accent": "④",
+    "other": "",
+    "example": "問題は難しいです。",
+    "example（CHN）": "问题很难。"
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "便宜",
+    "type": "A",
+    "accent": "②",
+    "other": "",
+    "example": "これは安いですね。",
+    "example（CHN）": "这个很便宜呢。"
+  },
+  {
+    "word": "良い",
+    "reading": "よい",
+    "meaning": "好的",
+    "type": "A",
+    "accent": "①",
+    "other": "",
+    "example": "ここはよいところですね。",
+    "example（CHN）": "这里是个好地方呢。"
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning": "简单",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "テストの問題は簡単ですね。",
+    "example（CHN）": "考试题很简单呢。"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "meaning": "讨厌",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "にんにくが嫌いです。",
+    "example（CHN）": "讨厌大蒜。"
+  },
+  {
+    "word": "綺麗",
+    "reading": "きれい",
+    "meaning": "漂亮；干净",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "今日のお姉さんは綺麗。",
+    "example（CHN）": "今天的姐姐很漂亮。"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning": "精神",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "妹はとても元気ですね。",
+    "example（CHN）": "妹妹很有精神呢。"
+  },
+  {
+    "word": "残念",
+    "reading": "ざんねん",
+    "meaning": "遗憾",
+    "type": "Na",
+    "accent": "③",
+    "other": "",
+    "example": "これは残念な話です。",
+    "example（CHN）": "这是个遗憾的故事。"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "安静",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "ここは静かです。",
+    "example（CHN）": "这里很安静。"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "擅长",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "数学が上手です。",
+    "example（CHN）": "数学很好。"
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "结实",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "丈夫な体が欲しい。",
+    "example（CHN）": "想要强壮的身体。"
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning": "热情",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "彼は親切です。",
+    "example（CHN）": "他很亲切。"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meaning": "喜欢",
+    "type": "Na",
+    "accent": "②",
+    "other": "",
+    "example": "彼女のことが好きです。",
+    "example（CHN）": "我喜欢她。"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "没关系",
+    "type": "Na",
+    "accent": "③",
+    "other": "",
+    "example": "大丈夫ですか。",
+    "example（CHN）": "没事吧？"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning": "最喜欢，超喜欢",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "お酒が大好きです。",
+    "example（CHN）": "非常喜欢酒。"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "重要",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "大切なものはここいあるよ。",
+    "example（CHN）": "重要的东西在这里哦。"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "不得了，严重，厉害",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "何日も残業して、大変だ。",
+    "example（CHN）": "连续加班好几天，很辛苦。"
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "热闹",
+    "type": "Na",
+    "accent": "②",
+    "other": "",
+    "example": "ここは賑やかですね。",
+    "example（CHN）": "这里很热闹呢。"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning": "空闲",
+    "type": "Na",
+    "accent": "②",
+    "other": "",
+    "example": "今は暇です。",
+    "example（CHN）": "现在很闲。"
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "复杂",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "この問題はとても複雑です。",
+    "example（CHN）": "这个问题很复杂。"
+  },
+  {
+    "word": "不便",
+    "reading": "ふべん",
+    "meaning": "不方便",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "ここはとても不便ですね。",
+    "example（CHN）": "这里很不方便呢。"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning": "不擅长",
+    "type": "Na",
+    "accent": "②",
+    "other": "",
+    "example": "歌は下手です。",
+    "example（CHN）": "唱歌不好。"
+  },
+  {
+    "word": "変",
+    "reading": "へん",
+    "meaning": "奇怪的",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "変な顔をしないでください。",
+    "example（CHN）": "不要做奇怪的表情。"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "meaning": "方便",
+    "type": "Na",
+    "accent": "①",
+    "other": "",
+    "example": "便利な道具が欲しい。",
+    "example（CHN）": "想要方便的工具。"
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning": "有名",
+    "type": "Na",
+    "accent": "◎",
+    "other": "",
+    "example": "有名なところに来ました。",
+    "example（CHN）": "来到了有名的地方。"
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "见面",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "友達と会いました。",
+    "example（CHN）": "见了朋友。"
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "打开",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅱ",
+    "example": "ドアを開けます。",
+    "example（CHN）": "打开门。"
+  },
+  {
+    "word": "あげる",
+    "reading": "あげる",
+    "meaning": "给",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅱ",
+    "example": "本をあげる。",
+    "example（CHN）": "给书。"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "玩，游玩",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "公園で遊びます。",
+    "example（CHN）": "在公园玩。"
+  },
+  {
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning": "冲淋",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "シャワーを浴びます。",
+    "example（CHN）": "洗澡（淋浴）。"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "洗",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "手を洗います。",
+    "example（CHN）": "洗手。"
+  },
+  {
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "有，存在",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "どこにありますか。",
+    "example（CHN）": "在哪里？"
+  },
+  {
+    "word": "歩いてくる",
+    "reading": "あるいてくる",
+    "meaning": "走过来",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "歩いてきてもいいですか？",
+    "example（CHN）": "可以走路来吗？"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "步行，走",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "明日歩くのは疲れます。",
+    "example（CHN）": "明天走路会很累。"
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "meaning": "说",
+    "type": "V",
+    "accent": "◎",
+    "other": "自他 Ⅰ",
+    "example": "何を言いますか。",
+    "example（CHN）": "说什么？"
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "去",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "病院に行きます。",
+    "example（CHN）": "去医院。"
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "着急",
+    "type": "V",
+    "accent": "②",
+    "other": "自他 Ⅰ",
+    "example": "急いで来てください。",
+    "example（CHN）": "请快点来。"
+  },
+  {
+    "word": "いる",
+    "reading": "いる",
+    "meaning": "有，存在",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅱ",
+    "example": "父は部屋にいる。",
+    "example（CHN）": "父亲在房间里。"
+  },
+  {
+    "word": "要る",
+    "reading": "いる",
+    "meaning": "需要",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "ここに入るには、鍵がいる。",
+    "example（CHN）": "要进这里需要钥匙。"
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "放进去，放入",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "本を入れるます。",
+    "example（CHN）": "放入书。"
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "唱歌",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "一緒に歌いましょう。",
+    "example（CHN）": "一起唱歌吧。"
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "出生",
+    "type": "V",
+    "accent": "③",
+    "other": "自 Ⅱ",
+    "example": "いつ生まれましたか。",
+    "example（CHN）": "什么时候出生？"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "卖",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "コーヒーを売ります。",
+    "example（CHN）": "卖咖啡。"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "起床；发生",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅱ",
+    "example": "8時に起きました。",
+    "example（CHN）": "8点起床了。"
+  },
+  {
+    "word": "贈る",
+    "reading": "おくる",
+    "meaning": "送",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "プレゼントを贈る。",
+    "example（CHN）": "送礼物。"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "记住",
+    "type": "V",
+    "accent": "③",
+    "other": "他 Ⅱ",
+    "example": "パスワードを覚えてください。",
+    "example（CHN）": "请记住密码。"
+  },
+  {
+    "word": "思う",
+    "reading": "おもう",
+    "meaning": "思考，想",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "彼はもう来ないと思います。",
+    "example（CHN）": "我觉得他不会再来了。"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "游泳",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "ここには泳がないでください。",
+    "example（CHN）": "请不要在这里游泳。"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "下，下来",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅱ",
+    "example": "この駅を降りてください。",
+    "example（CHN）": "请在这个站下车。"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "结束",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "仕事は終わりました。",
+    "example（CHN）": "工作结束了。"
+  },
+  {
+    "word": "会議する",
+    "reading": "かいぎする",
+    "meaning": "开会",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "今日会議します。",
+    "example（CHN）": "今天开会。"
+  },
+  {
+    "word": "買い物する",
+    "reading": "かいものする",
+    "meaning": "购物",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "デパートで買い物します。",
+    "example（CHN）": "在百货商店买东西。"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "买",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "お酒を買ってもいいですか？",
+    "example（CHN）": "可以买酒吗？"
+  },
+  {
+    "word": "帰ってくる",
+    "reading": "かえってくる",
+    "meaning": "回来",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "母が帰ってきた。",
+    "example（CHN）": "妈妈回来了。"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "回来，回家",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "家に帰る。",
+    "example（CHN）": "回家。"
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "花费",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "ここまで三時間かかりました。",
+    "example（CHN）": "到这里花了三个小时。"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "写，画",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "小説を書いている。",
+    "example（CHN）": "在写小说。"
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "花费，打（电话），靠，挂等",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "友達に電話をかけました。",
+    "example（CHN）": "给朋友打了电话。"
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "借出",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "本を貸す。",
+    "example（CHN）": "借书。"
+  },
+  {
+    "word": "買ってくる",
+    "reading": "かってくる",
+    "meaning": "去买（再回来）；买来",
+    "type": "V",
+    "accent": "",
+    "other": "他 Ⅲ",
+    "example": "飲み物を買ってくる。",
+    "example（CHN）": "去买饮料。"
+  },
+  {
+    "word": "被る",
+    "reading": "かぶる",
+    "meaning": "戴",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "帽子を被っている。",
+    "example（CHN）": "戴着帽子。"
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "借进",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "王さんにお金を借りた。",
+    "example（CHN）": "向王先生借了钱。"
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "meaning": "思考",
+    "type": "V",
+    "accent": "④",
+    "other": "他 Ⅱ",
+    "example": "問題を考える。",
+    "example（CHN）": "思考问题。"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "听；问",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "音楽を聞く。",
+    "example（CHN）": "听音乐。"
+  },
+  {
+    "word": "決まる",
+    "reading": "きまる",
+    "meaning": "决定",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "最後に自分で決まりました。",
+    "example（CHN）": "最后是自己决定的。"
+  },
+  {
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "决定",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "ルールを決めます。",
+    "example（CHN）": "制定规则。"
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "穿",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅱ",
+    "example": "服を着る。",
+    "example（CHN）": "穿衣服。"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning": "切",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "ケーキを切る。",
+    "example（CHN）": "切蛋糕。"
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "来",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅲ",
+    "example": "家に来る。",
+    "example（CHN）": "来我家。"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "擦去，消去",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "電気を消した。",
+    "example（CHN）": "关了电。"
+  },
+  {
+    "word": "結婚する",
+    "reading": "けっこんする",
+    "meaning": "结婚",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "彼女はもう結婚しました。",
+    "example（CHN）": "她已经结婚了。"
+  },
+  {
+    "word": "見学する",
+    "reading": "けんがくする",
+    "meaning": "参观学习",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "友達の会社を見学しました。",
+    "example（CHN）": "参观了朋友的公司。"
+  },
+  {
+    "word": "ござる",
+    "reading": "ござる",
+    "meaning": "有，在",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "トイレは2階にございます。",
+    "example（CHN）": "厕所就在二楼。"
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "回答",
+    "type": "V",
+    "accent": "③",
+    "other": "他 Ⅱ",
+    "example": "質問に答えてください。",
+    "example（CHN）": "请回答问题。"
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "meaning": "绽开",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "花が咲いていますね。",
+    "example（CHN）": "花开了呢。"
+  },
+  {
+    "word": "散歩する",
+    "reading": "さんぽする",
+    "meaning": "散步",
+    "type": "V",
+    "accent": "",
+    "other": "自 Ⅲ",
+    "example": "公園を散歩します。",
+    "example（CHN）": "在公园散步。"
+  },
+  {
+    "word": "知っている",
+    "reading": "しっている",
+    "meaning": "知道",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅱ",
+    "example": "真実を知っています。",
+    "example（CHN）": "知道真相。"
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "死",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "彼はもう死んだ。",
+    "example（CHN）": "他已经死了。"
+  },
+  {
+    "word": "調べる",
+    "reading": "しらべる",
+    "meaning": "调查",
+    "type": "V",
+    "accent": "③",
+    "other": "他 Ⅱ",
+    "example": "今回の事件について調べています。",
+    "example（CHN）": "正在调查这次事件。"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "知道",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "私は何も知らない。",
+    "example（CHN）": "我什么都不知道。"
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "吸",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "タバコを吸っている。",
+    "example（CHN）": "正在吸烟。"
+  },
+  {
+    "word": "空く",
+    "reading": "すく",
+    "meaning": "饿",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "お腹がすいている。",
+    "example（CHN）": "肚子饿了。"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning": "住",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "上海に住んでいる。",
+    "example（CHN）": "住在上海。"
+  },
+  {
+    "word": "する",
+    "reading": "する",
+    "meaning": "做；值",
+    "type": "V",
+    "accent": "◎",
+    "other": "自他 Ⅲ",
+    "example": "ここでするてもいいですか？",
+    "example（CHN）": "可以在这里做吗？"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "坐下",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "椅子に座ります。",
+    "example（CHN）": "坐在椅子上。"
+  },
+  {
+    "word": "選択する",
+    "reading": "せんたくする",
+    "meaning": "选择",
+    "type": "V",
+    "accent": "",
+    "other": "他 Ⅲ",
+    "example": "はやく選択してください。",
+    "example（CHN）": "请快点选择。"
+  },
+  {
+    "word": "洗濯する",
+    "reading": "せんたくする",
+    "meaning": "洗衣服",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅲ",
+    "example": "毎日洗濯します。",
+    "example（CHN）": "每天洗衣服。"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "出来，提交",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "宿題を出してください。",
+    "example（CHN）": "请交作业。"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "站起来",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "彼は立ちました。",
+    "example（CHN）": "他站起来了。"
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "吃",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅱ",
+    "example": "朝ご飯を食べます。",
+    "example（CHN）": "吃早饭。"
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "不一样，不对",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "全然違います。",
+    "example（CHN）": "完全不一样。"
+  },
+  {
+    "word": "注文する",
+    "reading": "ちゅうもんする",
+    "meaning": "点菜，点单",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅲ",
+    "example": "ラーメンを注文します。",
+    "example（CHN）": "点拉面。"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "使用",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "包丁を使います。",
+    "example（CHN）": "使用菜刀。"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "疲惫",
+    "type": "V",
+    "accent": "③",
+    "other": "自 Ⅱ",
+    "example": "今日はとても疲れました。",
+    "example（CHN）": "今天非常累。"
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "制作",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "朝ご飯を作るます。",
+    "example（CHN）": "做早饭。"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "出来",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅱ",
+    "example": "部屋から出てきた。",
+    "example（CHN）": "从房间出来了。"
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "拿，取",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "お給料を取った。",
+    "example（CHN）": "领了工资。"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "学习",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "何を習いましたか。",
+    "example（CHN）": "学了什么？"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "排列，并排",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "ここに並んでください。",
+    "example（CHN）": "请在这里排队。"
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "meaning": "成为",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "医者になる。",
+    "example（CHN）": "成为医生。"
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "脱",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "服を脱ぎました。",
+    "example（CHN）": "脱了衣服。"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "睡觉",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅱ",
+    "example": "昨日3時間寝ました。",
+    "example（CHN）": "昨天睡了3小时。"
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "爬",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "山に登りました。",
+    "example（CHN）": "爬了山。"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "喝",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "お酒を飲みます。",
+    "example（CHN）": "喝酒。"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "乘坐",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "地下鉄に乗ります。",
+    "example（CHN）": "坐地铁。"
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "进入",
+    "type": "V",
+    "accent": "①",
+    "other": "自 Ⅰ",
+    "example": "教室に入ります。",
+    "example（CHN）": "进入教室。"
+  },
+  {
+    "word": "履く",
+    "reading": "はく",
+    "meaning": "穿",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "靴下を履いた。",
+    "example（CHN）": "穿上了袜子。"
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "开始",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "テストはもう始まった。",
+    "example（CHN）": "考试已经开始了。"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning": "工作",
+    "type": "V",
+    "accent": "◎",
+    "other": "自 Ⅰ",
+    "example": "この会社で働いている。",
+    "example（CHN）": "在这家公司工作。"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "说话",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "大きな声で話さないでください。",
+    "example（CHN）": "请不要大声说话。"
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "拉",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅰ",
+    "example": "風邪を引いた。",
+    "example（CHN）": "感冒了。"
+  },
+  {
+    "word": "勉強する",
+    "reading": "べんきょうする",
+    "meaning": "学习",
+    "type": "V",
+    "accent": "◎",
+    "other": "他 Ⅲ",
+    "example": "日本語を勉強しています。",
+    "example（CHN）": "正在学习日语。"
+  },
+  {
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "刷",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "歯を磨きます。",
+    "example（CHN）": "刷牙。"
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "meaning": "看",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅱ",
+    "example": "テレビを見ています。",
+    "example（CHN）": "正在看电视。"
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning": "拿着，带",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "水を持っています。",
+    "example（CHN）": "拿着水。"
+  },
+  {
+    "word": "もらう",
+    "reading": "もらう",
+    "meaning": "收到，得到",
+    "type": "V",
+    "accent": "②",
+    "other": "他 Ⅰ",
+    "example": "お給料をもらった。",
+    "example（CHN）": "拿了工资。"
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "阅读",
+    "type": "V",
+    "accent": "①",
+    "other": "他 Ⅰ",
+    "example": "本を読んでいる。",
+    "example（CHN）": "正在看书。"
+  },
+  {
+    "word": "わかる",
+    "reading": "わかる",
+    "meaning": "知道，明白",
+    "type": "V",
+    "accent": "②",
+    "other": "自 Ⅰ",
+    "example": "ドイツ語がわかります。",
+    "example（CHN）": "懂德语。"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "忘记",
+    "type": "V",
+    "accent": "③",
+    "other": "他 Ⅱ",
+    "example": "友達のことを忘れました。",
+    "example（CHN）": "忘记了朋友。"
+  },
+  {
+    "word": "アイスクリーム",
+    "reading": "",
+    "meaning": "冰激凌",
+    "type": "N",
+    "accent": "⑤",
+    "other": "",
+    "example": "このアイスクリームは美味しい。",
+    "example（CHN）": "这个冰淇淋很好吃。"
+  },
+  {
+    "word": "アパート",
+    "reading": "",
+    "meaning": "公寓",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "アパートを買いました。",
+    "example（CHN）": "买了公寓。"
+  },
+  {
+    "word": "アメリカ",
+    "reading": "",
+    "meaning": "美国",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "アメリカに行きました。",
+    "example（CHN）": "去了美国。"
+  },
+  {
+    "word": "アメリカ人",
+    "reading": "",
+    "meaning": "美国人",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "あなたはアメリカ人ですか。",
+    "example（CHN）": "你是美国人吗？"
+  },
+  {
+    "word": "アルバイト",
+    "reading": "",
+    "meaning": "打工，打工人",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "今日はアルバイトがあります。",
+    "example（CHN）": "今天有兼职。"
+  },
+  {
+    "word": "アルバイトする",
+    "reading": "",
+    "meaning": "打工",
+    "type": "V",
+    "accent": "③",
+    "other": "自 Ⅲ",
+    "example": "コンビニでアルバイトしています。",
+    "example（CHN）": "在便利店打工。"
+  },
+  {
+    "word": "イタリア",
+    "reading": "",
+    "meaning": "意大利",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "イタリアの車が好きです。",
+    "example（CHN）": "喜欢意大利的车。"
+  },
+  {
+    "word": "インターネット",
+    "reading": "",
+    "meaning": "网络",
+    "type": "N",
+    "accent": "⑤",
+    "other": "",
+    "example": "インターネットは便利ですね。",
+    "example（CHN）": "互联网很方便呢。"
+  },
+  {
+    "word": "カメラ",
+    "reading": "",
+    "meaning": "照相机",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "これはカメラです。",
+    "example（CHN）": "这是相机。"
+  },
+  {
+    "word": "カラオケ",
+    "reading": "",
+    "meaning": "卡拉OK",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "カラオケは楽しいですね。",
+    "example（CHN）": "卡拉OK很有趣呢。"
+  },
+  {
+    "word": "カレー",
+    "reading": "",
+    "meaning": "咖喱",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "カレーを食べたいです。",
+    "example（CHN）": "想吃咖喱。"
+  },
+  {
+    "word": "カレンダー",
+    "reading": "",
+    "meaning": "月历，台历",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "このカレンダー壁にあります。",
+    "example（CHN）": "这个日历在墙上。"
+  },
+  {
+    "word": "ギター",
+    "reading": "",
+    "meaning": "吉他",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "このギターはいいです。",
+    "example（CHN）": "这把吉他很好。"
+  },
+  {
+    "word": "クリスマス",
+    "reading": "",
+    "meaning": "圣诞节",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "もうすぐクリスマスですね。",
+    "example（CHN）": "马上就到圣诞节了呢。"
+  },
+  {
+    "word": "ケーキ",
+    "reading": "",
+    "meaning": "蛋糕",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ケーキを食べました。",
+    "example（CHN）": "吃了蛋糕。"
+  },
+  {
+    "word": "ケース",
+    "reading": "",
+    "meaning": "箱子",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ケースに何がありますか。",
+    "example（CHN）": "盒子里有什么？"
+  },
+  {
+    "word": "ゲーム",
+    "reading": "",
+    "meaning": "游戏",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "私はゲームが好きです。",
+    "example（CHN）": "我喜欢游戏。"
+  },
+  {
+    "word": "コート",
+    "reading": "",
+    "meaning": "大衣",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "コートを着ている。",
+    "example（CHN）": "穿着外套。"
+  },
+  {
+    "word": "コーヒー",
+    "reading": "",
+    "meaning": "咖啡",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "毎日コーヒーを飲みます。",
+    "example（CHN）": "每天喝咖啡。"
+  },
+  {
+    "word": "コップ",
+    "reading": "",
+    "meaning": "杯子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "コップがありますか？",
+    "example（CHN）": "有杯子吗？"
+  },
+  {
+    "word": "コピー",
+    "reading": "",
+    "meaning": "复印",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "コピーをしてください。",
+    "example（CHN）": "请复印。"
+  },
+  {
+    "word": "コンサート",
+    "reading": "",
+    "meaning": "演唱会，音乐会",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "コンサートに行きましょう。",
+    "example（CHN）": "去听音乐会吧。"
+  },
+  {
+    "word": "コンビニ",
+    "reading": "",
+    "meaning": "便利店",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "毎日コンビニで昼ご飯を食べます。",
+    "example（CHN）": "每天在便利店吃午饭。"
+  },
+  {
+    "word": "コンピューター",
+    "reading": "",
+    "meaning": "电脑",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "コンピューターがありますか？",
+    "example（CHN）": "有电脑吗？"
+  },
+  {
+    "word": "サッカー",
+    "reading": "",
+    "meaning": "足球",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "サッカーが好きです。",
+    "example（CHN）": "喜欢足球。"
+  },
+  {
+    "word": "サンドイッチ",
+    "reading": "",
+    "meaning": "三明治",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "サンドイッチを買いました。",
+    "example（CHN）": "买了三明治。"
+  },
+  {
+    "word": "シャツ",
+    "reading": "",
+    "meaning": "衬衫",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "これはシャツです。",
+    "example（CHN）": "这是衬衫。"
+  },
+  {
+    "word": "シャワー",
+    "reading": "",
+    "meaning": "淋浴",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "シャワーを浴びました。",
+    "example（CHN）": "洗了澡。"
+  },
+  {
+    "word": "ジュース",
+    "reading": "",
+    "meaning": "果汁",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ジュースを買いました。",
+    "example（CHN）": "买了果汁。"
+  },
+  {
+    "word": "スーツ",
+    "reading": "",
+    "meaning": "西装",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "スーツがありますか？",
+    "example（CHN）": "有西装吗？"
+  },
+  {
+    "word": "スーパー",
+    "reading": "",
+    "meaning": "超市",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎日スーパーで買い物します。",
+    "example（CHN）": "每天在超市买东西。"
+  },
+  {
+    "word": "スキー",
+    "reading": "",
+    "meaning": "滑雪",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "スキーに行きましょう。",
+    "example（CHN）": "去滑雪吧。"
+  },
+  {
+    "word": "スケート",
+    "reading": "",
+    "meaning": "滑冰",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "スケートを習いました。",
+    "example（CHN）": "学了滑冰。"
+  },
+  {
+    "word": "ストーブ",
+    "reading": "",
+    "meaning": "暖炉",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "寒い時は、ストーブが欲しいです。",
+    "example（CHN）": "天冷的时候想要炉子。"
+  },
+  {
+    "word": "スプーン",
+    "reading": "",
+    "meaning": "勺子",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "スプーンでスープを飲む。",
+    "example（CHN）": "用勺子喝汤。"
+  },
+  {
+    "word": "スポーツ",
+    "reading": "",
+    "meaning": "运动",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "毎日スポーツをしています。",
+    "example（CHN）": "每天做运动。"
+  },
+  {
+    "word": "ズボン",
+    "reading": "",
+    "meaning": "裤子",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ズボンを履いてください。",
+    "example（CHN）": "请穿裤子。"
+  },
+  {
+    "word": "スマホ",
+    "reading": "",
+    "meaning": "智能手机",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "今日は新しいスマホを買いました。",
+    "example（CHN）": "今天买了新手机。"
+  },
+  {
+    "word": "タクシー",
+    "reading": "",
+    "meaning": "出租车",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "タクシーを拾いました。",
+    "example（CHN）": "打到了出租车。"
+  },
+  {
+    "word": "タバコ",
+    "reading": "",
+    "meaning": "香烟",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "タバコを吸わないでください。",
+    "example（CHN）": "请不要吸烟。"
+  },
+  {
+    "word": "チェックイン",
+    "reading": "",
+    "meaning": "登记入住",
+    "type": "N",
+    "accent": "④",
+    "other": "",
+    "example": "チェックインをお願いします。",
+    "example（CHN）": "请办理入住。"
+  },
+  {
+    "word": "チケット",
+    "reading": "",
+    "meaning": "票",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "コンサートをチケットを買いました。",
+    "example（CHN）": "买了音乐会的票。"
+  },
+  {
+    "word": "チョコ",
+    "reading": "",
+    "meaning": "巧克力",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "チョコを食べたいです。",
+    "example（CHN）": "想吃巧克力。"
+  },
+  {
+    "word": "ディスク",
+    "reading": "",
+    "meaning": "碟片",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ディスクはもう使わなくなった。",
+    "example（CHN）": "光盘已经不用了。"
+  },
+  {
+    "word": "ディズニーランド",
+    "reading": "",
+    "meaning": "迪士尼",
+    "type": "N",
+    "accent": "⑤",
+    "other": "",
+    "example": "三回ディズニーランドへ行きました。",
+    "example（CHN）": "去过迪士尼乐园三次。"
+  },
+  {
+    "word": "テーブル",
+    "reading": "",
+    "meaning": "桌子",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "テーブルで晩ご飯を食べました。",
+    "example（CHN）": "在桌子上吃了晚饭。"
+  },
+  {
+    "word": "テスト",
+    "reading": "",
+    "meaning": "测试",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "今日はテストがあります。",
+    "example（CHN）": "今天有考试。"
+  },
+  {
+    "word": "テニス",
+    "reading": "",
+    "meaning": "网球",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "李さんはテニスが上手ですね。",
+    "example（CHN）": "李先生网球很好呢。"
+  },
+  {
+    "word": "デパート",
+    "reading": "",
+    "meaning": "百货商店",
+    "type": "N",
+    "accent": "②",
+    "other": "",
+    "example": "デパートで働いています。",
+    "example（CHN）": "在百货公司工作。"
+  },
+  {
+    "word": "テレビ",
+    "reading": "",
+    "meaning": "电视",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎日テレビを見ます。",
+    "example（CHN）": "每天看电视。"
+  },
+  {
+    "word": "ドラマ",
+    "reading": "",
+    "meaning": "电视剧",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "このドラマは面白いです。",
+    "example（CHN）": "这部电视剧很有趣。"
+  },
+  {
+    "word": "ニューヨーク",
+    "reading": "",
+    "meaning": "纽约",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "ニューヨークは賑やかですね。",
+    "example（CHN）": "纽约很热闹呢。"
+  },
+  {
+    "word": "ノート",
+    "reading": "",
+    "meaning": "笔记本",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ノートに会議の内容を書きました。",
+    "example（CHN）": "在笔记本上写了会议内容。"
+  },
+  {
+    "word": "パーティー",
+    "reading": "",
+    "meaning": "派对",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "彼の誕生日パーティーに参加した。",
+    "example（CHN）": "参加了他的生日派对。"
+  },
+  {
+    "word": "バス",
+    "reading": "",
+    "meaning": "公交",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "バスで学校へ行きます。",
+    "example（CHN）": "坐公交去学校。"
+  },
+  {
+    "word": "バス停",
+    "reading": "",
+    "meaning": "公交站",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "バス停は近くにあります。",
+    "example（CHN）": "公交站在附近。"
+  },
+  {
+    "word": "パソコン",
+    "reading": "",
+    "meaning": "电脑",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "私のパソコンは壊れました。",
+    "example（CHN）": "我的电脑坏了。"
+  },
+  {
+    "word": "パン",
+    "reading": "",
+    "meaning": "面包",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "パンを作りました。",
+    "example（CHN）": "做了面包。"
+  },
+  {
+    "word": "ハンカチ",
+    "reading": "",
+    "meaning": "手帕",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "ハンカチを買いました。",
+    "example（CHN）": "买了手帕。"
+  },
+  {
+    "word": "パンダ",
+    "reading": "",
+    "meaning": "熊猫",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "パンダを見ました。",
+    "example（CHN）": "看了熊猫。"
+  },
+  {
+    "word": "ピアノ",
+    "reading": "",
+    "meaning": "钢琴",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "ピアノを弾くことができます。",
+    "example（CHN）": "会弹钢琴。"
+  },
+  {
+    "word": "ビール",
+    "reading": "",
+    "meaning": "啤酒",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ビールを飲みたくないです。",
+    "example（CHN）": "不想喝啤酒。"
+  },
+  {
+    "word": "プール",
+    "reading": "",
+    "meaning": "泳池",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ここにプールがあります。",
+    "example（CHN）": "这里有游泳池。"
+  },
+  {
+    "word": "プレゼント",
+    "reading": "",
+    "meaning": "礼物",
+    "type": "N",
+    "accent": "③",
+    "other": "",
+    "example": "プレゼントをもらいました。",
+    "example（CHN）": "收到了礼物。"
+  },
+  {
+    "word": "ベトナム",
+    "reading": "",
+    "meaning": "越南",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "ベトナムに行ったことがあります。",
+    "example（CHN）": "去过越南。"
+  },
+  {
+    "word": "ホテル",
+    "reading": "",
+    "meaning": "酒店",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ホテルがありますか？",
+    "example（CHN）": "有酒店吗？"
+  },
+  {
+    "word": "マンション",
+    "reading": "",
+    "meaning": "高级公寓",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "このマンションに住んでいます。",
+    "example（CHN）": "住在这个公寓里。"
+  },
+  {
+    "word": "ミルク",
+    "reading": "",
+    "meaning": "牛奶",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎日ミルクを飲んでいます。",
+    "example（CHN）": "每天喝牛奶。"
+  },
+  {
+    "word": "メモ",
+    "reading": "",
+    "meaning": "笔记",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "壁にメモがありますよ。",
+    "example（CHN）": "墙上有便条。"
+  },
+  {
+    "word": "ラーメン",
+    "reading": "",
+    "meaning": "拉面",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "毎日ラーメンを食べます。",
+    "example（CHN）": "每天吃拉面。"
+  },
+  {
+    "word": "レストラン",
+    "reading": "",
+    "meaning": "餐馆，饭店",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "このレストランは安くて美味しいです。",
+    "example（CHN）": "这家餐厅又便宜又好吃。"
+  },
+  {
+    "word": "ロビー",
+    "reading": "",
+    "meaning": "大厅",
+    "type": "N",
+    "accent": "①",
+    "other": "",
+    "example": "ロビーで待っています。",
+    "example（CHN）": "在大厅等。"
+  },
+  {
+    "word": "消しゴム",
+    "reading": "",
+    "meaning": "橡皮",
+    "type": "N",
+    "accent": "◎",
+    "other": "",
+    "example": "この消しゴムは誰のですか。",
+    "example（CHN）": "这个橡皮是谁的？"
+  },
+  {
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "那个",
+    "type": "连体词",
+    "accent": "◎",
+    "other": "",
+    "example": "あのペンは誰のですか。",
+    "example（CHN）": "那支笔是谁的？"
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning": "不怎么",
+    "type": "副词",
+    "accent": "◎③",
+    "other": "",
+    "example": "あまり運動しません。",
+    "example（CHN）": "不怎么运动。"
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "不",
+    "type": "感叹词",
+    "accent": "◎",
+    "other": "",
+    "example": "いいえ、違いますよ。",
+    "example（CHN）": "不，不是的。"
+  },
+  {
+    "word": "如何",
+    "reading": "いかが",
+    "meaning": "如何，怎么样",
+    "type": "副词",
+    "accent": "②",
+    "other": "",
+    "example": "いかがでしょうか。",
+    "example（CHN）": "怎么样呢？"
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning": "最",
+    "type": "副词",
+    "accent": "②",
+    "other": "",
+    "example": "一番好きな食べ物はラーメンです。",
+    "example（CHN）": "最喜欢的食物是拉面。"
+  },
+  {
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "meaning": "一起",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "一緒に学校に行きましょう。",
+    "example（CHN）": "一起去学校吧。"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "总是",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "いつもあの店でご飯を食べています。",
+    "example（CHN）": "总是在那家店吃饭。"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning": "现在",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "今はどこですか。",
+    "example（CHN）": "现在在哪里？"
+  },
+  {
+    "word": "今から",
+    "reading": "いまから",
+    "meaning": "从现在开始",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "今から頑張りましょう。",
+    "example（CHN）": "从现在开始加油吧。"
+  },
+  {
+    "word": "いろいろ",
+    "reading": "いろいろ",
+    "meaning": "很多，许多，各种各样",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "いろいろなものがありますね。",
+    "example（CHN）": "有各种各样的东西呢。"
+  },
+  {
+    "word": "ええ",
+    "reading": "えい",
+    "meaning": "是",
+    "type": "感叹词",
+    "accent": "①",
+    "other": "",
+    "example": "ええ、そうですよ。",
+    "example（CHN）": "嗯，是的。"
+  },
+  {
+    "word": "円",
+    "reading": "えん",
+    "meaning": "日元",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "コーヒーは500円です。",
+    "example（CHN）": "咖啡是500日元。"
+  },
+  {
+    "word": "遅くまで",
+    "reading": "おそくまで",
+    "meaning": "到很晚",
+    "type": "副词",
+    "accent": "",
+    "other": "",
+    "example": "毎日遅くまで働いています。",
+    "example（CHN）": "每天工作到很晚。"
+  },
+  {
+    "word": "階",
+    "reading": "かい",
+    "meaning": "层",
+    "type": "量词",
+    "accent": "◎",
+    "other": "",
+    "example": "教室は5階にあります。",
+    "example（CHN）": "教室在5楼。"
+  },
+  {
+    "word": "から",
+    "reading": "から",
+    "meaning": "从",
+    "type": "格助词",
+    "accent": "①",
+    "other": "",
+    "example": "あなたはどこから来ましたか。",
+    "example（CHN）": "你从哪里来？"
+  },
+  {
+    "word": "ください",
+    "reading": "ください",
+    "meaning": "请",
+    "type": "",
+    "accent": "③",
+    "other": "",
+    "example": "これをください。",
+    "example（CHN）": "请给我这个。"
+  },
+  {
+    "word": "くらい",
+    "reading": "くらい",
+    "meaning": "大概，大约",
+    "type": "副助词",
+    "accent": "①",
+    "other": "",
+    "example": "5時くらい起きました。",
+    "example（CHN）": "大概5点起床。"
+  },
+  {
+    "word": "個",
+    "reading": "こ",
+    "meaning": "个",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "りんごを3個食べました。",
+    "example（CHN）": "吃了3个苹果。"
+  },
+  {
+    "word": "この",
+    "reading": "この",
+    "meaning": "这个",
+    "type": "连体词",
+    "accent": "◎",
+    "other": "",
+    "example": "この消しゴムは誰のですか。",
+    "example（CHN）": "这个橡皮是谁的？"
+  },
+  {
+    "word": "この後",
+    "reading": "このあと",
+    "meaning": "这之后",
+    "type": "副词",
+    "accent": "③",
+    "other": "",
+    "example": "この後何をしますか。",
+    "example（CHN）": "接下来做什么？"
+  },
+  {
+    "word": "これから",
+    "reading": "これから",
+    "meaning": "接下来",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "これから運動をしましょう。",
+    "example（CHN）": "接下来去运动吧。"
+  },
+  {
+    "word": "頃",
+    "reading": "ごろ",
+    "meaning": "左右",
+    "type": "接尾词",
+    "accent": "①",
+    "other": "",
+    "example": "三時頃帰りました。",
+    "example（CHN）": "大约3点回去了。"
+  },
+  {
+    "word": "今度",
+    "reading": "こんど",
+    "meaning": "这次，下次",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "今度の日曜日に旅行に行きませんか。",
+    "example（CHN）": "下个星期天一起去旅行吗？"
+  },
+  {
+    "word": "歳",
+    "reading": "さい",
+    "meaning": "岁",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "あの子はまだ3歳です。",
+    "example（CHN）": "那个孩子才3岁。"
+  },
+  {
+    "word": "先に",
+    "reading": "さきに",
+    "meaning": "先",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "先に帰りますね。",
+    "example（CHN）": "我先回去了。"
+  },
+  {
+    "word": "冊",
+    "reading": "さつ",
+    "meaning": "册，本",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "本を5冊を買いました。",
+    "example（CHN）": "买了5本书。"
+  },
+  {
+    "word": "さっき",
+    "reading": "さっき",
+    "meaning": "刚才",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "さっき王さんがきましたよ。",
+    "example（CHN）": "刚才王先生来了。"
+  },
+  {
+    "word": "しかし",
+    "reading": "しかし",
+    "meaning": "但是",
+    "type": "连接词",
+    "accent": "②",
+    "other": "",
+    "example": "しかし、これは私のものではないです。",
+    "example（CHN）": "但是，这不是我的东西。"
+  },
+  {
+    "word": "すぎ",
+    "reading": "すぎ",
+    "meaning": "超过",
+    "type": "接尾词",
+    "accent": "◎",
+    "other": "",
+    "example": "私はすぎを知っています。",
+    "example（CHN）": "我知道杉（或：过去）。"
+  },
+  {
+    "word": "すぐ（に）",
+    "reading": "すぐ（に）",
+    "meaning": "马上",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "すぐそちらに行きます。",
+    "example（CHN）": "马上过去那边。"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "一点点",
+    "type": "副词",
+    "accent": "②",
+    "other": "",
+    "example": "少し寒いです。",
+    "example（CHN）": "有点冷。"
+  },
+  {
+    "word": "ずつ",
+    "reading": "ずつ",
+    "meaning": "等量分配；等量重复",
+    "type": "副助词",
+    "accent": "①",
+    "other": "",
+    "example": "子供に飴を3個ずつあげます。",
+    "example（CHN）": "给每个孩子3个糖。"
+  },
+  {
+    "word": "是非",
+    "reading": "ぜひ",
+    "meaning": "务必",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "是非遊びに来てください。",
+    "example（CHN）": "一定要来玩。"
+  },
+  {
+    "word": "全然",
+    "reading": "ぜんぜん",
+    "meaning": "完全",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "全然わかりません。",
+    "example（CHN）": "完全不懂。"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "全部",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "もう全部話しました。",
+    "example（CHN）": "已经全都说了。"
+  },
+  {
+    "word": "全部で",
+    "reading": "ぜんぶで",
+    "meaning": "全部，总共",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "全部で3000円です。",
+    "example（CHN）": "一共3000日元。"
+  },
+  {
+    "word": "そう",
+    "reading": "そう",
+    "meaning": "如此，那样",
+    "type": "副詞",
+    "accent": "①",
+    "other": "",
+    "example": "そうですか。",
+    "example（CHN）": "是吗。"
+  },
+  {
+    "word": "そして",
+    "reading": "そして",
+    "meaning": "然后",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "そして、私たちは巡り合う。",
+    "example（CHN）": "然后，我们相遇。"
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "meaning": "那个",
+    "type": "连体词",
+    "accent": "◎",
+    "other": "",
+    "example": "その部屋は妹のです。",
+    "example（CHN）": "那个房间是妹妹的。"
+  },
+  {
+    "word": "それから",
+    "reading": "それから",
+    "meaning": "从那以后",
+    "type": "接续词",
+    "accent": "◎",
+    "other": "",
+    "example": "それから、私は彼の姿を見ていません。",
+    "example（CHN）": "之后我再也没见过他。"
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "那么",
+    "type": "接续词",
+    "accent": "③",
+    "other": "",
+    "example": "それでは、ゲームを始めましょう。",
+    "example（CHN）": "那么，开始游戏吧。"
+  },
+  {
+    "word": "台",
+    "reading": "だい",
+    "meaning": "台",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "車を2台買いました。",
+    "example（CHN）": "买了两辆车。"
+  },
+  {
+    "word": "大抵",
+    "reading": "たいてい",
+    "meaning": "大体，大概",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "大抵のことはわかりました。",
+    "example（CHN）": "大致都明白了。"
+  },
+  {
+    "word": "だけ",
+    "reading": "だけ",
+    "meaning": "只有，仅仅",
+    "type": "副助词",
+    "accent": "◎",
+    "other": "",
+    "example": "この食べ物はここにだけがあります。",
+    "example（CHN）": "这个食物只有这里有。"
+  },
+  {
+    "word": "たち",
+    "reading": "たち",
+    "meaning": "~们",
+    "type": "接尾词",
+    "accent": "①",
+    "other": "",
+    "example": "猫たちがいっぱい集まっているね。",
+    "example（CHN）": "很多猫聚在一起呢。"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning": "大概",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "李さんは多分教室にいますよ。",
+    "example（CHN）": "李先生大概在教室。"
+  },
+  {
+    "word": "丁度",
+    "reading": "ちょうど",
+    "meaning": "正好",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "パンはちょうど3つあります。",
+    "example（CHN）": "面包正好有3个。"
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "稍微",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "ちょっと暑いね。",
+    "example（CHN）": "有点热呢。"
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "meaning": "那么",
+    "type": "接续词",
+    "accent": "①",
+    "other": "",
+    "example": "では、会議はここまで。",
+    "example（CHN）": "那么，会议到此为止。"
+  },
+  {
+    "word": "でも",
+    "reading": "でも",
+    "meaning": "但是",
+    "type": "接续词",
+    "accent": "①",
+    "other": "",
+    "example": "でも、これは私のものではないです。",
+    "example（CHN）": "不过，这不是我的东西。"
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning": "为什么",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "どうして先生がここにいますか。",
+    "example（CHN）": "为什么老师在这里？"
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "请",
+    "type": "叹词",
+    "accent": "①",
+    "other": "",
+    "example": "どうぞ、こちらへ。",
+    "example（CHN）": "请这边走。"
+  },
+  {
+    "word": "どうやって",
+    "reading": "どうやって",
+    "meaning": "怎么做",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "ケーキはどうやって作りますか。",
+    "example（CHN）": "蛋糕怎么做？"
+  },
+  {
+    "word": "ときどき",
+    "reading": "ときどき",
+    "meaning": "有时",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "私はときどき釣りに行きます。",
+    "example（CHN）": "我偶尔去钓鱼。"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "非常",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "このチョコはとても美味しいです。",
+    "example（CHN）": "这个巧克力很好吃。"
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "哪个",
+    "type": "连体词",
+    "accent": "①",
+    "other": "",
+    "example": "どのペンがあなたのですか。",
+    "example（CHN）": "哪支笔是你的？"
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning": "怎样的",
+    "type": "连体词",
+    "accent": "①",
+    "other": "",
+    "example": "どんなお茶が好きですか。",
+    "example（CHN）": "喜欢什么样的茶？"
+  },
+  {
+    "word": "ない",
+    "reading": "ない",
+    "meaning": "不，没有，否定意义",
+    "type": "助动词",
+    "accent": "①",
+    "other": "",
+    "example": "お金がない。",
+    "example（CHN）": "没有钱。"
+  },
+  {
+    "word": "何故",
+    "reading": "なぜ",
+    "meaning": "为什么",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "なぜ知ったのですか。",
+    "example（CHN）": "为什么知道的？"
+  },
+  {
+    "word": "なんで",
+    "reading": "なんで",
+    "meaning": "为什么",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "なんで何も言わないんですか。",
+    "example（CHN）": "为什么什么都不说？"
+  },
+  {
+    "word": "人",
+    "reading": "にん",
+    "meaning": "人",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "ここに3人います。",
+    "example（CHN）": "这里有3个人。"
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "是",
+    "type": "感叹词",
+    "accent": "①",
+    "other": "",
+    "example": "はい、そうです。",
+    "example（CHN）": "是的。"
+  },
+  {
+    "word": "杯",
+    "reading": "はい",
+    "meaning": "杯",
+    "type": "量词",
+    "accent": "◎",
+    "other": "",
+    "example": "ご飯を2杯食べました。",
+    "example（CHN）": "吃了两碗饭。"
+  },
+  {
+    "word": "番",
+    "reading": "ばん",
+    "meaning": "号",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "私の出席番号は3番です。",
+    "example（CHN）": "我的出席号是3号。"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "支、瓶等",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "ビール3本飲みました。",
+    "example（CHN）": "喝了3瓶啤酒。"
+  },
+  {
+    "word": "本当",
+    "reading": "ほんとう",
+    "meaning": "真的",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "本当に忘れましたよね。",
+    "example（CHN）": "真的忘了吧。"
+  },
+  {
+    "word": "枚",
+    "reading": "まい",
+    "meaning": "枚",
+    "type": "量词",
+    "accent": "①",
+    "other": "",
+    "example": "紙を3枚持ってくれないか。",
+    "example（CHN）": "能帮我拿3张纸吗？"
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "meaning": "又",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "また病気になったね。",
+    "example（CHN）": "又生病了呢。"
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "还，才，仅",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "まだ帰りたくないです。",
+    "example（CHN）": "还不想回去。"
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "meaning": "笔直地",
+    "type": "副词",
+    "accent": "③",
+    "other": "",
+    "example": "この道をまっすぐに歩いてください。",
+    "example（CHN）": "请沿着这条路一直走。"
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meaning": "已经",
+    "type": "副词",
+    "accent": "①",
+    "other": "",
+    "example": "もう晩ご飯を食べました。",
+    "example（CHN）": "已经吃过晚饭了。"
+  },
+  {
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning": "再一次",
+    "type": "副词",
+    "accent": "◎",
+    "other": "",
+    "example": "もう一度試しましょう。",
+    "example（CHN）": "再试一次吧。"
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "慢悠悠地",
+    "type": "副词",
+    "accent": "③",
+    "other": "",
+    "example": "ゆっくり暮らしたいです。",
+    "example（CHN）": "想慢慢生活。"
+  },
+  {
+    "word": "ゆっくりする",
+    "reading": "ゆっくりする",
+    "meaning": "慢慢来",
+    "type": "动词",
+    "accent": "③",
+    "other": "自 Ⅲ",
+    "example": "ゆっくりしてもいいよ。",
+    "example（CHN）": "可以慢慢来。"
+  }
+]

@@ -39,3 +39,7 @@ body {
   .content_box {
     min-height: 75lvh;
   }
+
+  button:active {
+    transform: scale(0.8);
+  }

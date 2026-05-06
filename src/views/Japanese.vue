@@ -3,7 +3,10 @@
     <h1 class="title">日语学习</h1>
 
     <div class="exercise" @click="go('/exercise')">
-      <span>点击进入 -> 进入刷题·背单词专项页面</span>
+      <span>点击进入 -> 进入刷题专项页面</span>
+    </div>
+    <div class="exercise" @click="go('/word')">
+      <span>点击进入 -> 进入背单词专项页面</span>
     </div>
     <div class="list">
       <ArticleCard v-for="item in list" :key="item.id" :article="item" />

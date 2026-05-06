@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jszip": "^3.10.1",
     "marked": "^18.0.1",
     "pinia": "^3.0.4",
     "sass": "^1.99.0",
