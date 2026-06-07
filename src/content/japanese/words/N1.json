@@ -1,0 +1,24 @@
+[
+  {
+    "id": "n1-001",
+    "word": "憂鬱",
+    "reading": "ゆううつ",
+    "meaning": "忧郁，郁闷",
+    "type": "N/Adj",
+    "accent": "◎",
+    "level": "N1",
+    "example": "雨の日は憂鬱な気分になる。",
+    "exampleTranslation": "下雨天会变得忧郁。"
+  },
+  {
+    "id": "n1-002",
+    "word": "躊躇",
+    "reading": "ちゅうちょ",
+    "meaning": "犹豫",
+    "type": "N",
+    "accent": "◎",
+    "level": "N1",
+    "example": "彼は一瞬躊躇したが、すぐに決断した。",
+    "exampleTranslation": "他犹豫了一下，但马上做出了决断。"
+  }
+]

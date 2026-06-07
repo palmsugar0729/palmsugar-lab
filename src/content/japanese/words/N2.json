@@ -1,0 +1,24 @@
+[
+  {
+    "id": "n2-001",
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaning": "妥协",
+    "type": "N",
+    "accent": "◎",
+    "level": "N2",
+    "example": "双方が妥協して合意に達した。",
+    "exampleTranslation": "双方妥协达成了协议。"
+  },
+  {
+    "id": "n2-002",
+    "word": "弁解",
+    "reading": "べんかい",
+    "meaning": "辩解，解释",
+    "type": "N",
+    "accent": "◎",
+    "level": "N2",
+    "example": "彼は必死に弁解したが、誰も信じなかった。",
+    "exampleTranslation": "他拼命辩解，但没有人相信。"
+  }
+]

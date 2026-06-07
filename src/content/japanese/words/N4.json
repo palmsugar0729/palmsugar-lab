@@ -1,0 +1,57 @@
+[
+  {
+    "id": "n4-001",
+    "word": "挨拶",
+    "reading": "あいさつ",
+    "meaning": "问候，寒暄",
+    "type": "N",
+    "accent": "①",
+    "level": "N4",
+    "example": "朝の挨拶を忘れないでください。",
+    "exampleTranslation": "请不要忘记早上的问候。"
+  },
+  {
+    "id": "n4-002",
+    "word": "謝る",
+    "reading": "あやまる",
+    "meaning": "道歉",
+    "type": "V",
+    "accent": "③",
+    "level": "N4",
+    "example": "遅れてしまって謝りました。",
+    "exampleTranslation": "因为迟到了所以道歉了。"
+  },
+  {
+    "id": "n4-003",
+    "word": "用事",
+    "reading": "ようじ",
+    "meaning": "事情，要事",
+    "type": "N",
+    "accent": "◎",
+    "level": "N4",
+    "example": "今日は用事があります。",
+    "exampleTranslation": "今天有事情。"
+  },
+  {
+    "id": "n4-004",
+    "word": "誘う",
+    "reading": "さそう",
+    "meaning": "邀请",
+    "type": "V",
+    "accent": "◎",
+    "level": "N4",
+    "example": "友達を映画に誘いました。",
+    "exampleTranslation": "邀请朋友去看电影了。"
+  },
+  {
+    "id": "n4-005",
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "meaning": "害羞的，难为情的",
+    "type": "Adj",
+    "accent": "④",
+    "level": "N4",
+    "example": "恥ずかしくて顔が赤くなりました。",
+    "exampleTranslation": "害羞得脸红了。"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "n3-001",
+    "word": "余裕",
+    "reading": "よゆう",
+    "meaning": "富余，从容",
+    "type": "N",
+    "accent": "◎",
+    "level": "N3",
+    "example": "時間に余裕があるので、急がなくてもいい。",
+    "exampleTranslation": "时间很充裕，所以不用着急。"
+  },
+  {
+    "id": "n3-002",
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "忍耐，忍受",
+    "type": "N",
+    "accent": "◎",
+    "level": "N3",
+    "example": "もう我慢できません。",
+    "exampleTranslation": "已经不能再忍耐了。"
+  }
+]

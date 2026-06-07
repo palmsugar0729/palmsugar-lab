@@ -1,0 +1,112 @@
+[
+  {
+    "id": "n5-001",
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "期间",
+    "type": "N",
+    "accent": "◎",
+    "level": "N5",
+    "example": "この間どこへ行きましたか。",
+    "exampleTranslation": "前几天你去了哪里？"
+  },
+  {
+    "id": "n5-002",
+    "word": "青",
+    "reading": "あお",
+    "meaning": "蓝色",
+    "type": "N",
+    "accent": "①",
+    "level": "N5",
+    "example": "空が青いです。",
+    "exampleTranslation": "天空是蓝色的。"
+  },
+  {
+    "id": "n5-003",
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "红色",
+    "type": "N",
+    "accent": "①",
+    "level": "N5",
+    "example": "これは赤です。",
+    "exampleTranslation": "这是红色的。"
+  },
+  {
+    "id": "n5-004",
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "type": "N",
+    "accent": "①",
+    "level": "N5",
+    "example": "もう秋ですね。",
+    "exampleTranslation": "已经是秋天了呢。"
+  },
+  {
+    "id": "n5-005",
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早上",
+    "type": "N",
+    "accent": "①",
+    "level": "N5",
+    "example": "朝を待っています。",
+    "exampleTranslation": "我在等早晨。"
+  },
+  {
+    "id": "n5-006",
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "早饭",
+    "type": "N",
+    "accent": "③",
+    "level": "N5",
+    "example": "毎日朝ご飯を食べます。",
+    "exampleTranslation": "每天吃早饭。"
+  },
+  {
+    "id": "n5-007",
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning": "后天",
+    "type": "N",
+    "accent": "②",
+    "level": "N5",
+    "example": "明後日行きますね。",
+    "exampleTranslation": "后天去哦。"
+  },
+  {
+    "id": "n5-008",
+    "word": "足",
+    "reading": "あし",
+    "meaning": "脚",
+    "type": "N",
+    "accent": "②",
+    "level": "N5",
+    "example": "足を洗いました。",
+    "exampleTranslation": "洗了脚。"
+  },
+  {
+    "id": "n5-009",
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "type": "N",
+    "accent": "③",
+    "level": "N5",
+    "example": "明日行きません。",
+    "exampleTranslation": "明天不去。"
+  },
+  {
+    "id": "n5-010",
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "那里，那边",
+    "type": "N",
+    "accent": "◎",
+    "level": "N5",
+    "example": "あそこに何がありますか。",
+    "exampleTranslation": "那里有什么？"
+  }
+]
